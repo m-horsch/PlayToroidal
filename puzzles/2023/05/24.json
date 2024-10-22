@@ -1,0 +1,86 @@
+{
+    "version": "0.1.0",
+    "date": "2023/05/24",
+    "rows": 4,
+    "cols": 4,
+    "ntiles": 16,
+    "initial": [
+        [
+            6,
+            0,
+            12,
+            2
+        ],
+        [
+            1,
+            9,
+            8,
+            13
+        ],
+        [
+            14,
+            11,
+            5,
+            7
+        ],
+        [
+            15,
+            10,
+            4,
+            3
+        ]
+    ],
+    "final": [
+        [
+            0,
+            1,
+            2,
+            3
+        ],
+        [
+            4,
+            5,
+            6,
+            7
+        ],
+        [
+            8,
+            9,
+            10,
+            11
+        ],
+        [
+            12,
+            13,
+            14,
+            15
+        ]
+    ],
+    "fullimage": "images/full/Trapezoidal2/Trapezoidal2.png",
+    "imagetiles": {
+        "0": "images/full/Trapezoidal2/4x4/tile_0_0.png",
+        "1": "images/full/Trapezoidal2/4x4/tile_0_1.png",
+        "2": "images/full/Trapezoidal2/4x4/tile_0_2.png",
+        "3": "images/full/Trapezoidal2/4x4/tile_0_3.png",
+        "4": "images/full/Trapezoidal2/4x4/tile_1_0.png",
+        "5": "images/full/Trapezoidal2/4x4/tile_1_1.png",
+        "6": "images/full/Trapezoidal2/4x4/tile_1_2.png",
+        "7": "images/full/Trapezoidal2/4x4/tile_1_3.png",
+        "8": "images/full/Trapezoidal2/4x4/tile_2_0.png",
+        "9": "images/full/Trapezoidal2/4x4/tile_2_1.png",
+        "10": "images/full/Trapezoidal2/4x4/tile_2_2.png",
+        "11": "images/full/Trapezoidal2/4x4/tile_2_3.png",
+        "12": "images/full/Trapezoidal2/4x4/tile_3_0.png",
+        "13": "images/full/Trapezoidal2/4x4/tile_3_1.png",
+        "14": "images/full/Trapezoidal2/4x4/tile_3_2.png",
+        "15": "images/full/Trapezoidal2/4x4/tile_3_3.png"
+    },
+    "difficulty": "Moderate",
+    "rating": {
+        "gold": 41,
+        "silver": 45,
+        "bronze": 49
+    },
+    "next": "2023/05/23",
+    "this": "puzzles/2023/05/24.json"
+}

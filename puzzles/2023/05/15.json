@@ -1,0 +1,61 @@
+{
+    "version": "0.1.0",
+    "date": "2023/05/15",
+    "rows": 3,
+    "cols": 3,
+    "ntiles": 9,
+    "initial": [
+        [
+            1,
+            0,
+            4
+        ],
+        [
+            8,
+            3,
+            7
+        ],
+        [
+            6,
+            2,
+            5
+        ]
+    ],
+    "final": [
+        [
+            0,
+            1,
+            2
+        ],
+        [
+            3,
+            4,
+            5
+        ],
+        [
+            6,
+            7,
+            8
+        ]
+    ],
+    "fullimage": "images/Blocks/full/CrossWord3x3_A.png",
+    "imagetiles": {
+        "0": "images/Blocks/tiles/Blue/Block_W.png",
+        "1": "images/Blocks/tiles/Blue/Block_R.png",
+        "2": "images/Blocks/tiles/Blue/Block_Y.png",
+        "3": "images/Blocks/tiles/Red/Block_A.png",
+        "4": "images/Blocks/tiles/Red/Block_Y.png",
+        "5": "images/Blocks/tiles/Red/Block_E.png",
+        "6": "images/Blocks/tiles/Green/Block_S.png",
+        "7": "images/Blocks/tiles/Green/Block_E.png",
+        "8": "images/Blocks/tiles/Green/Block_T.png"
+    },
+    "difficulty": "Moderate",
+    "rating": {
+        "gold": 14,
+        "silver": 17,
+        "bronze": 20
+    },
+    "next": "2023/05/14",
+    "this": "puzzles/2023/05/15.json"
+}

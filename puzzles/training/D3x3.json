@@ -1,0 +1,54 @@
+{
+    "version": "0.1.0",
+    "rows": 3,
+    "cols": 3,
+    "ntiles": 3,
+    "initial": [
+        [
+            2,
+            1,
+            1
+        ],
+        [
+            0,
+            1,
+            0
+        ],
+        [
+            0,
+            0,
+            1
+        ]
+    ],
+    "final": [
+        [
+            0,
+            1,
+            0
+        ],
+        [
+            1,
+            2,
+            1
+        ],
+        [
+            0,
+            1,
+            0
+        ]
+    ],
+    "fullimage": "images/Blocks/training/D3x3.png",
+    "imagetiles": {
+        "0": "images/Blocks/tiles/BlackBlock.png",
+        "1": "images/Blocks/tiles/GreenBlock.png",
+        "2": "images/Blocks/tiles/RedBlock.png"
+    },
+    "difficulty": "Moderate",
+    "rating": {
+        "gold": 6,
+        "silver": 9,
+        "bronze": 12
+    },
+  "blurb": "One strategy is to solve the middle first, then the corners.",
+  "next": "training/E3x3"
+}

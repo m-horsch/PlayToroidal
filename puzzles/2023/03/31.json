@@ -1,0 +1,97 @@
+{
+    "version": "0.1.0",
+    "date": "2023/03/31",
+    "rows": 5,
+    "cols": 5,
+    "ntiles": 5,
+    "initial": [
+        [
+            0,
+            0,
+            1,
+            0,
+            0
+        ],
+        [
+            0,
+            2,
+            1,
+            4,
+            0
+        ],
+        [
+            0,
+            0,
+            4,
+            1,
+            4
+        ],
+        [
+            0,
+            2,
+            0,
+            1,
+            2
+        ],
+        [
+            4,
+            0,
+            3,
+            2,
+            0
+        ]
+    ],
+    "final": [
+        [
+            4,
+            0,
+            0,
+            0,
+            4
+        ],
+        [
+            0,
+            1,
+            2,
+            1,
+            0
+        ],
+        [
+            0,
+            2,
+            3,
+            2,
+            0
+        ],
+        [
+            0,
+            1,
+            2,
+            1,
+            0
+        ],
+        [
+            4,
+            0,
+            0,
+            0,
+            4
+        ]
+    ],
+    "fullimage": "images/Blocks/full/Cross5x5.png",
+    "imagetiles": {
+        "0": "images/Blocks/tiles/BlueBlock.png",
+        "1": "images/Blocks/tiles/RedBlock.png",
+        "2": "images/Blocks/tiles/GreenBlock.png",
+        "3": "images/Blocks/tiles/YellowBlock.png",
+        "4": "images/Blocks/tiles/OrangeBlock.png"
+    },
+    "difficulty": "Moderate",
+    "rating": {
+        "gold": 24,
+        "silver": 29,
+        "bronze": 34
+    },
+    "next": "2023/03/30",
+    "this": "puzzles/2023/03/31.json"
+}

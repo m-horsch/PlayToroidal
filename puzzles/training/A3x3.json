@@ -1,0 +1,22 @@
+{
+  "date": "2023/03/03",
+  "rows": 3,
+  "cols": 3,
+  "initial": [[0,0,0],[0,0,2],[0,3,1]],
+  "final": [[0,0,0],[0,0,1],[0,2,3]],
+  "fullimage": "images/Blocks/training/A3x3.png",
+  "ntiles": 4,
+  "imagetiles" :
+    {
+      "0": "images/Blocks/tiles/BlackBlock.png",
+      "1": "images/Blocks/tiles/RedBlock.png",
+      "2": "images/Blocks/tiles/OrangeBlock.png",
+      "3": "images/Blocks/tiles/BlueBlock.png"
+    },
+  "difficulty": "Easy",
+  "rating": {
+    "gold":4, "silver": 6, "bronze": 8
+  },
+  "blurb": "To place the red block, move it out of the way (to the right), then bring the orange block to the bottom level.  Push the orange block left, and shift the red block into place.",
+  "next": "training/B3x3"
+}

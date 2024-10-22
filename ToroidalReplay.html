@@ -1,0 +1,102 @@
+<!--    File: ToroidalReplay.html-->
+<!--    Synopsis:  The main page to watch a Toroidal replay. -->
+<!--    Copyright (C) 2023-2024 Michael C Horsch-->
+
+<!--    This program is free software: you can redistribute it and/or modify-->
+<!--    it under the terms of the GNU General Public License as published by-->
+<!--    the Free Software Foundation, either version 3 of the License, or-->
+<!--    (at your option) any later version.-->
+
+<!--    This program is distributed in the hope that it will be useful,-->
+<!--    but WITHOUT ANY WARRANTY; without even the implied warranty of-->
+<!--    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the-->
+<!--    GNU General Public License for more details.-->
+
+<!--    You should have received a copy of the GNU General Public License-->
+<!--    along with this program.  If not, see <https://www.gnu.org/licenses/>.-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Toroidal Replay</title>
+    <link href="style/main.css" rel="stylesheet" type="text/css">
+    <link href="images/ICON/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
+    <link href="images/ICON/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
+    <link href="images/ICON/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
+    <link href="images/ICON/site.webmanifest" rel="manifest">
+</head>
+<body>
+
+<div id="top">
+    <div class="vl">
+        <div id="ttitle">Toroidal  Replay</div>
+    </div>
+    <div class="game-intro" id="blurb">
+        Watch a solution by stepping through it, or play the whole solution.
+    </div>
+</div>
+
+<div id="canvas-container">
+    <canvas class="canvas" id="torus-canvas"></canvas>
+    <canvas class="canvas" id="goal-canvas"></canvas>
+</div>
+
+<div id="game-info">
+    <div class="score-container" id="counter"> 0 </div>
+    <div class="options-row" id="options">
+        <a class="restart-button" id="reset" >Reset</a>
+        <a class="restart-button" id="play" >Play</a>
+        <a class="restart-button" id="step" >Step</a>
+        <div class="speed-container">
+            <input id="speed" max="15" min="1" type="range" value="5">
+        </div>
+
+    </div>
+</div>
+
+<div id="win"></div>
+<div class="copy">Copyright &copy; 2022-2024 Michael C Horsch</div>
+<div class="game-intro" id="newbies">
+    <a href="Toroidal.html">Back to the Toroidal game page.</a>
+</div>
+<div class="copy"><a href="mailto:m.c.horsch@gmail.com?subject=Toroidal game">Drop me a line!</a></div>
+
+<div id="log"></div>
+
+<script src="js/tile.js"></script>
+<script src="js/arrayutils.js"></script>
+<script src="js/torus.js"></script>
+<script src="js/imgtorus.js"></script>
+<script src="js/baselevel.js"></script>
+<script src="js/replaylevel.js"></script>
+<script src="js/basecontrol.js"></script>
+<script src="js/replaycontrol.js"></script>
+<script src="js/viewutils.js"></script>
+<script src="js/baseview.js"></script>
+<script src="js/replayview.js"></script>
+<script src="js/Replay.js"></script>
+
+<script>
+    // check the URL for the mode.
+    // If no mode, then just load today's puzzle.
+    // Otherwise, assume the mode's value is a JSON filename
+
+    const urlParams = new URLSearchParams(window.location.search);
+    const modeval = urlParams.get('mode');
+
+    let replay = new Replay(modeval || "third.json");
+
+    document.getElementById("reset").onclick = function () {
+        replay.reset();
+    }
+    document.getElementById("play").onclick = function () {
+        replay.play();
+    }
+    document.getElementById("step").onclick = function () {
+        replay.step();
+    }
+</script>
+</body>
+</html>
+
+

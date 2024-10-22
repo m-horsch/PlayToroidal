@@ -1,0 +1,42 @@
+{
+    "version": "0.1.0",
+    "date": "2023/06/03",
+    "rows": 2,
+    "cols": 2,
+    "ntiles": 4,
+    "initial": [
+        [
+            0,
+            3
+        ],
+        [
+            1,
+            2
+        ]
+    ],
+    "final": [
+        [
+            0,
+            1
+        ],
+        [
+            2,
+            3
+        ]
+    ],
+    "fullimage": "images/full/PuzzleBackground/PuzzleBackground.png",
+    "imagetiles": {
+        "0": "images/full/PuzzleBackground/2x2/tile_0_0.png",
+        "1": "images/full/PuzzleBackground/2x2/tile_0_1.png",
+        "2": "images/full/PuzzleBackground/2x2/tile_1_0.png",
+        "3": "images/full/PuzzleBackground/2x2/tile_1_1.png"
+    },
+    "difficulty": "Moderate",
+    "rating": {
+        "gold": 2,
+        "silver": 4,
+        "bronze": 6
+    },
+    "next": "2023/06/02",
+    "this": "puzzles/2023/06/03.json"
+}

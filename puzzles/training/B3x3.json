@@ -1,0 +1,25 @@
+{
+  "date": "2023/03/03",
+  "rows": 3,
+  "cols": 3,
+  "initial": [[4,5,6],[5,6,2],[6,3,1]],
+  "final": [[4,5,6],[5,6,1],[6,2,3]],
+  "fullimage": "images/Blocks/training/B3x3.png",
+  "ntiles": 7,
+  "imagetiles" :
+    {
+      "0": "images/Blocks/tiles/BlackBlock.png",
+      "1": "images/Blocks/tiles/RedBlock.png",
+      "2": "images/Blocks/tiles/OrangeBlock.png",
+      "3": "images/Blocks/tiles/BlueBlock.png",
+      "4": "images/Blocks/tiles/YellowBlock.png",
+      "5": "images/Blocks/tiles/MagentaBlock.png",
+      "6": "images/Blocks/tiles/GreenBlock.png"
+    },
+  "difficulty": "Easy",
+  "rating": {
+    "gold":4, "silver": 5, "bronze": 6
+  },
+  "blurb": "The same steps as last time.  Try it.  Notice that during the sequence, some of the blocks move around, but when the Right-Down-Left-Up is finished, only the Red, Blue, and Orange blocks are affected.",
+  "next": "training/C3x3"
+}

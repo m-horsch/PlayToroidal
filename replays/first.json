@@ -1,0 +1,36 @@
+{
+    "version": "0.1.0",
+    "rows": 4,
+    "cols": 3,
+    "ntiles": 12,
+    "initial": [
+      		[ 8, 2, 9 ],
+	    	[ 6, 0, 11 ],
+	    	[ 10, 3, 1 ],
+	    	[ 4, 7, 5 ]
+    ],
+    "final": [
+	      [ 0, 1, 2 ],
+	      [ 3, 4, 5 ],
+	      [ 6, 7, 8 ],
+	      [ 9, 10, 11 ]
+    ],
+    "actions-old": "D0 U2 R3 U2 L0 U1 L0 D0 D1 L2 U0",
+    "actions": "L1 U0 U2 R1 R2 U2 R1 U1 R3 D2 U0 R2 D0 D2 L2 U2 R3 U2 R2 D2 L2",
+
+  "fullimage": "images/full/Shore/Shore.png",
+    "imagetiles": {
+        "0": "images/full/Shore/4x3/tile_0_0.png",
+        "1": "images/full/Shore/4x3/tile_0_1.png",
+        "2": "images/full/Shore/4x3/tile_0_2.png",
+        "3": "images/full/Shore/4x3/tile_1_0.png",
+        "4": "images/full/Shore/4x3/tile_1_1.png",
+        "5": "images/full/Shore/4x3/tile_1_2.png",
+        "6": "images/full/Shore/4x3/tile_2_0.png",
+        "7": "images/full/Shore/4x3/tile_2_1.png",
+        "8": "images/full/Shore/4x3/tile_2_2.png",
+        "9": "images/full/Shore/4x3/tile_3_0.png",
+        "10": "images/full/Shore/4x3/tile_3_1.png",
+        "11": "images/full/Shore/4x3/tile_3_2.png"
+    }
+}

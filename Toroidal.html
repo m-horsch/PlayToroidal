@@ -1,0 +1,99 @@
+<!--    File: Toroidal.html-->
+<!--    Synopsis:  The main page to Play Toroidal. -->
+<!--    Copyright (C) 2023-2024 Michael C Horsch-->
+
+<!--    This program is free software: you can redistribute it and/or modify-->
+<!--    it under the terms of the GNU General Public License as published by-->
+<!--    the Free Software Foundation, either version 3 of the License, or-->
+<!--    (at your option) any later version.-->
+
+<!--    This program is distributed in the hope that it will be useful,-->
+<!--    but WITHOUT ANY WARRANTY; without even the implied warranty of-->
+<!--    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the-->
+<!--    GNU General Public License for more details.-->
+
+<!--    You should have received a copy of the GNU General Public License-->
+<!--    along with this program.  If not, see <https://www.gnu.org/licenses/>.-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Toroidal</title>
+    <link href="style/main.css" rel="stylesheet" type="text/css">
+    <link rel="apple-touch-icon" sizes="180x180" href="images/ICON/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/ICON/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/ICON/favicon-16x16.png">
+    <link rel="manifest" href="images/ICON/site.webmanifest">
+</head>
+<body>
+
+<div id="top">
+    <div class="vl">
+        <div id="ttitle">Toroidal</div>
+    </div>
+    <div id="blurb" class="game-intro">
+        Push the tiles around until the
+        image on the left matches the
+        image on the right!
+    </div>
+</div>
+
+<div id="canvas-container">
+    <canvas class="canvas" id="torus-canvas"></canvas>
+    <canvas class="canvas" id="goal-canvas"></canvas>
+</div>
+
+<div id="game-info">
+    <div id="counter" class="score-container"> 0 </div>
+    <div id="timer" class="timer-container"> 0 </div>
+    <div id="options" class="options-row">
+        <a id="reset" class="restart-button" >Reset</a>
+<!--        <a id="undo" class="restart-button" >Undo</a>-->
+
+    </div>
+</div>
+
+<div id="win"></div>
+<div class="copy">Copyright &copy; 2022-2024 Michael C Horsch</div>
+<div id="newbies" class="game-intro">
+    <a href="https://m-horsch.github.io/playing/2023/07/19/Toroidal-NoviceMethod.html">Some hints for newcomers!</a>
+</div>
+<div class="copy"><a href="mailto:m.c.horsch@gmail.com?subject=Toroidal game">Drop me a line!</a></div>
+
+<div id="log"></div>
+
+<script src="js/tile.js"></script>
+<script src="js/arrayutils.js"></script>
+<script src="js/torus.js"></script>
+<script src="js/imgtorus.js"></script>
+<script src="js/baselevel.js"></script>
+<script src="js/playlevel.js"></script>
+<script src="js/basecontrol.js"></script>
+<script src="js/control.js"></script>
+<script src="js/viewutils.js"></script>
+<script src="js/baseview.js"></script>
+<script src="js/view.js"></script>
+<script src="js/progressMonitor.js"></script>
+<script src="js/Game.js"></script>
+
+<script>
+    // check the URL for the mode.
+    // If no mode, then just load today's puzzle.
+    // Otherwise, assume the mode's value is a JSON filename
+
+    const urlParams = new URLSearchParams(window.location.search);
+    const modeval = urlParams.get('mode');
+    // console.log("mode: " + modeval);
+    const firstpuzz = new Date('2023-03-19');
+    const lastpuzz = new Date('2023-07-13');
+
+    let game = new Game(modeval || getpuzz(getRandomDate(firstpuzz, lastpuzz))+".json");
+
+    document.getElementById("reset").onclick = function () {
+        game.reset();
+    }
+</script>
+</body>
+</html>
+
+

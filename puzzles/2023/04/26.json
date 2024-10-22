@@ -1,0 +1,117 @@
+{
+    "version": "0.1.0",
+    "date": "2023/04/26",
+    "rows": 5,
+    "cols": 5,
+    "ntiles": 25,
+    "initial": [
+        [
+            9,
+            20,
+            17,
+            1,
+            2
+        ],
+        [
+            16,
+            18,
+            3,
+            4,
+            23
+        ],
+        [
+            6,
+            14,
+            5,
+            0,
+            22
+        ],
+        [
+            19,
+            7,
+            13,
+            11,
+            21
+        ],
+        [
+            24,
+            15,
+            12,
+            8,
+            10
+        ]
+    ],
+    "final": [
+        [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        [
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        [
+            10,
+            11,
+            12,
+            13,
+            14
+        ],
+        [
+            15,
+            16,
+            17,
+            18,
+            19
+        ],
+        [
+            20,
+            21,
+            22,
+            23,
+            24
+        ]
+    ],
+    "fullimage": "images/full/KaleidoA/KaleidoA.png",
+    "imagetiles": {
+        "0": "images/full/KaleidoA/5x5/tile_0_0.png",
+        "1": "images/full/KaleidoA/5x5/tile_0_1.png",
+        "2": "images/full/KaleidoA/5x5/tile_0_2.png",
+        "3": "images/full/KaleidoA/5x5/tile_0_3.png",
+        "4": "images/full/KaleidoA/5x5/tile_0_4.png",
+        "5": "images/full/KaleidoA/5x5/tile_1_0.png",
+        "6": "images/full/KaleidoA/5x5/tile_1_1.png",
+        "7": "images/full/KaleidoA/5x5/tile_1_2.png",
+        "8": "images/full/KaleidoA/5x5/tile_1_3.png",
+        "9": "images/full/KaleidoA/5x5/tile_1_4.png",
+        "10": "images/full/KaleidoA/5x5/tile_2_0.png",
+        "11": "images/full/KaleidoA/5x5/tile_2_1.png",
+        "12": "images/full/KaleidoA/5x5/tile_2_2.png",
+        "13": "images/full/KaleidoA/5x5/tile_2_3.png",
+        "14": "images/full/KaleidoA/5x5/tile_2_4.png",
+        "15": "images/full/KaleidoA/5x5/tile_3_0.png",
+        "16": "images/full/KaleidoA/5x5/tile_3_1.png",
+        "17": "images/full/KaleidoA/5x5/tile_3_2.png",
+        "18": "images/full/KaleidoA/5x5/tile_3_3.png",
+        "19": "images/full/KaleidoA/5x5/tile_3_4.png",
+        "20": "images/full/KaleidoA/5x5/tile_4_0.png",
+        "21": "images/full/KaleidoA/5x5/tile_4_1.png",
+        "22": "images/full/KaleidoA/5x5/tile_4_2.png",
+        "23": "images/full/KaleidoA/5x5/tile_4_3.png",
+        "24": "images/full/KaleidoA/5x5/tile_4_4.png"
+    },
+    "difficulty": "Moderate",
+    "rating": {
+        "gold": 113,
+        "silver": 118,
+        "bronze": 123
+    },
+    "next": "2023/04/25",
+    "this": "puzzles/2023/04/26.json"
+}

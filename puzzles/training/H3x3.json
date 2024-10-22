@@ -1,0 +1,54 @@
+{
+  "date": "2023/05/19",
+  "rows": 3,
+  "cols": 3,
+  "ntiles": 3,
+  "initial": [
+    [
+      1,
+      2,
+      1
+    ],
+    [
+      0,
+      2,
+      0
+    ],
+    [
+      1,
+      2,
+      0
+    ]
+  ],
+  "final": [
+    [
+      1,
+      0,
+      2
+    ],
+    [
+      0,
+      2,
+      1
+    ],
+    [
+      2,
+      1,
+      0
+    ]
+  ],
+  "fullimage": "images/Blocks/full/Latin3x3A.png",
+  "imagetiles": {
+    "0": "images/Blocks/tiles/Blue/Block_0.png",
+    "1": "images/Blocks/tiles/Red/Block_1.png",
+    "2": "images/Blocks/tiles/Green/Block_2.png"
+  },
+  "difficulty": "Moderate",
+  "rating": {
+    "gold": 8,
+    "silver": 11,
+    "bronze": 14
+  },
+  "blurb": "In this puzzle, the blocks are labelled.",
+  "next": "training/F3x3"
+}

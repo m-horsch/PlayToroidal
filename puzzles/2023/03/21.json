@@ -1,0 +1,61 @@
+{
+    "version": "0.1.0",
+    "date": "2023/03/21",
+    "rows": 3,
+    "cols": 3,
+    "ntiles": 9,
+    "initial": [
+        [
+            0,
+            8,
+            7
+        ],
+        [
+            3,
+            4,
+            1
+        ],
+        [
+            2,
+            6,
+            5
+        ]
+    ],
+    "final": [
+        [
+            0,
+            1,
+            2
+        ],
+        [
+            3,
+            4,
+            5
+        ],
+        [
+            6,
+            7,
+            8
+        ]
+    ],
+    "fullimage": "images/full/Stars/Stars.png",
+    "imagetiles": {
+        "0": "images/full/Stars/3x3/tile_0_0.png",
+        "1": "images/full/Stars/3x3/tile_0_1.png",
+        "2": "images/full/Stars/3x3/tile_0_2.png",
+        "3": "images/full/Stars/3x3/tile_1_0.png",
+        "4": "images/full/Stars/3x3/tile_1_1.png",
+        "5": "images/full/Stars/3x3/tile_1_2.png",
+        "6": "images/full/Stars/3x3/tile_2_0.png",
+        "7": "images/full/Stars/3x3/tile_2_1.png",
+        "8": "images/full/Stars/3x3/tile_2_2.png"
+    },
+    "difficulty": "Moderate",
+    "rating": {
+        "gold": 5,
+        "silver": 8,
+        "bronze": 11
+    },
+    "next": null,
+    "this": "puzzles/2023/03/21.json"
+}

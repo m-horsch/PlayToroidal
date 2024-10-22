@@ -1,0 +1,61 @@
+{
+    "version": "0.1.0",
+    "date": "2023/06/16",
+    "rows": 3,
+    "cols": 3,
+    "ntiles": 9,
+    "initial": [
+        [
+            7,
+            6,
+            3
+        ],
+        [
+            1,
+            5,
+            2
+        ],
+        [
+            0,
+            8,
+            4
+        ]
+    ],
+    "final": [
+        [
+            7,
+            0,
+            5
+        ],
+        [
+            2,
+            4,
+            6
+        ],
+        [
+            3,
+            8,
+            1
+        ]
+    ],
+    "fullimage": "images/Blocks/full/MagicA.png",
+    "imagetiles": {
+        "0": "images/Blocks/tiles/Blue/Block_1.png",
+        "1": "images/Blocks/tiles/Blue/Block_2.png",
+        "2": "images/Blocks/tiles/Blue/Block_3.png",
+        "3": "images/Blocks/tiles/Green/Block_4.png",
+        "4": "images/Blocks/tiles/Green/Block_5.png",
+        "5": "images/Blocks/tiles/Green/Block_6.png",
+        "6": "images/Blocks/tiles/Red/Block_7.png",
+        "7": "images/Blocks/tiles/Red/Block_8.png",
+        "8": "images/Blocks/tiles/Red/Block_9.png"
+    },
+    "difficulty": "Moderate",
+    "rating": {
+        "gold": 11,
+        "silver": 14,
+        "bronze": 17
+    },
+    "next": "2023/06/15",
+    "this": "puzzles/2023/06/16.json"
+}

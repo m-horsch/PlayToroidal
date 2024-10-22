@@ -1,0 +1,86 @@
+{
+    "version": "0.1.0",
+    "date": "2023/05/19",
+    "rows": 4,
+    "cols": 4,
+    "ntiles": 16,
+    "initial": [
+        [
+            0,
+            14,
+            11,
+            8
+        ],
+        [
+            4,
+            7,
+            9,
+            5
+        ],
+        [
+            12,
+            3,
+            6,
+            15
+        ],
+        [
+            2,
+            13,
+            1,
+            10
+        ]
+    ],
+    "final": [
+        [
+            2,
+            3,
+            0,
+            1
+        ],
+        [
+            7,
+            5,
+            6,
+            4
+        ],
+        [
+            8,
+            10,
+            9,
+            11
+        ],
+        [
+            13,
+            12,
+            15,
+            14
+        ]
+    ],
+    "fullimage": "images/Blocks/full/Latin4x4B.png",
+    "imagetiles": {
+        "0": "images/Blocks/tiles/Blue/Block_0.png",
+        "1": "images/Blocks/tiles/Blue/Block_1.png",
+        "2": "images/Blocks/tiles/Blue/Block_2.png",
+        "3": "images/Blocks/tiles/Blue/Block_3.png",
+        "4": "images/Blocks/tiles/Red/Block_0.png",
+        "5": "images/Blocks/tiles/Red/Block_1.png",
+        "6": "images/Blocks/tiles/Red/Block_2.png",
+        "7": "images/Blocks/tiles/Red/Block_3.png",
+        "8": "images/Blocks/tiles/Green/Block_0.png",
+        "9": "images/Blocks/tiles/Green/Block_1.png",
+        "10": "images/Blocks/tiles/Green/Block_2.png",
+        "11": "images/Blocks/tiles/Green/Block_3.png",
+        "12": "images/Blocks/tiles/Yellow/Block_0.png",
+        "13": "images/Blocks/tiles/Yellow/Block_1.png",
+        "14": "images/Blocks/tiles/Yellow/Block_2.png",
+        "15": "images/Blocks/tiles/Yellow/Block_3.png"
+    },
+    "difficulty": "Moderate",
+    "rating": {
+        "gold": 52,
+        "silver": 56,
+        "bronze": 60
+    },
+    "next": "2023/05/18",
+    "this": "puzzles/2023/05/19.json"
+}

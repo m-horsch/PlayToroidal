@@ -1,0 +1,74 @@
+{
+    "version": "0.1.0",
+    "date": "2023/05/08",
+    "rows": 4,
+    "cols": 3,
+    "ntiles": 12,
+    "initial": [
+        [
+            7,
+            1,
+            8
+        ],
+        [
+            6,
+            10,
+            9
+        ],
+        [
+            3,
+            0,
+            11
+        ],
+        [
+            5,
+            4,
+            2
+        ]
+    ],
+    "final": [
+        [
+            0,
+            1,
+            2
+        ],
+        [
+            3,
+            4,
+            5
+        ],
+        [
+            6,
+            7,
+            8
+        ],
+        [
+            9,
+            10,
+            11
+        ]
+    ],
+    "fullimage": "images/full/CatBath/CatBath.png",
+    "imagetiles": {
+        "0": "images/full/CatBath/4x3/tile_0_0.png",
+        "1": "images/full/CatBath/4x3/tile_0_1.png",
+        "2": "images/full/CatBath/4x3/tile_0_2.png",
+        "3": "images/full/CatBath/4x3/tile_1_0.png",
+        "4": "images/full/CatBath/4x3/tile_1_1.png",
+        "5": "images/full/CatBath/4x3/tile_1_2.png",
+        "6": "images/full/CatBath/4x3/tile_2_0.png",
+        "7": "images/full/CatBath/4x3/tile_2_1.png",
+        "8": "images/full/CatBath/4x3/tile_2_2.png",
+        "9": "images/full/CatBath/4x3/tile_3_0.png",
+        "10": "images/full/CatBath/4x3/tile_3_1.png",
+        "11": "images/full/CatBath/4x3/tile_3_2.png"
+    },
+    "difficulty": "Moderate",
+    "rating": {
+        "gold": 26,
+        "silver": 29,
+        "bronze": 33
+    },
+    "next": "2023/05/07",
+    "this": "puzzles/2023/05/08.json"
+}

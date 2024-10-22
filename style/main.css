@@ -1,0 +1,208 @@
+
+body {
+  margin: 30px;
+  background: #236f79;
+  color: #f5f0e7;
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 18px;
+}
+
+#ttitle {
+  font-size: 60px;
+  font-weight: bold;
+  margin-right: 10px;
+  display: block;
+  justify-content: left;
+}
+
+/* the top section, with title and blurb */
+#top {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: left;
+  margin-bottom: 10px;
+}
+
+/* a vertical bar */
+.vl {
+  border-right: 6px solid #21474d;
+  height: 60px;
+}
+
+/* the blurb at the top */
+.game-intro {
+  font-size: 20px;
+  width: 350px;
+  float: none;
+  line-height: 20px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  margin-left: 12px;
+}
+
+/* containing the canvases */
+#canvas-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: left;
+}
+
+.canvas {
+  padding: 5px;
+  margin-right: 20px;
+  background-color: #21474d;
+  border-radius: 3px;
+}
+
+/* under the canvases, the info and buttons */
+#game-info {
+  width: 600px;
+  display: flex;
+  margin-left: 7px
+}
+
+.restart-button {
+  font-size: 20px;
+  cursor: pointer;
+  background: #21474d;
+  border-radius: 3px;
+  padding: 0px 15px;
+  height: 55px;
+  width: 55px;
+  text-decoration: none;
+  text-align: center;
+  color: #ece7de;
+  line-height: 55px;
+  margin: 15px 10px 15px 0px;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.restart-button:active {
+  color: #000000;
+}
+
+.score-container, .timer-container {
+  width: 90px;
+  position: relative;
+  display: inline-block;
+  background: #21474d;
+  padding: 15px 0px  15px 0px;  /* top left bottom right */
+  font-size: 20px;
+  height: 25px;
+  line-height: 47px;
+  font-weight: bold;
+  border-radius: 3px;
+  color: #dad9d7;
+  text-align: center;
+  margin: 15px 10px 15px 0px;
+}
+
+.score-container:after, .timer-container:after {
+  position: absolute;
+  width: 100%;
+  top: 10px;
+  left: 0;
+  text-transform: uppercase;
+  font-size: 13px;
+  line-height: 13px;
+  text-align: center;
+  color: #eecc88;
+}
+
+
+.score-container:after {
+  content: "Moves";
+}
+
+.timer-container:after {
+  content: "Time";
+}
+
+.options-row {
+  display: flex;
+}
+
+.speed-container {
+  width: 150px;
+  position: relative;
+  display: inline-block;
+  background: #21474d;
+  padding: 15px 0px  15px 0px;  /* top left bottom right */
+  font-size: 20px;
+  height: 25px;
+  line-height: 47px;
+  font-weight: bold;
+  border-radius: 3px;
+  color: #dad9d7;
+  text-align: center;
+  margin: 15px 10px 15px 0px;
+}
+
+.speed-container:after {
+  position: absolute;
+  width: 100%;
+  top: 10px;
+  left: 0;
+  text-transform: uppercase;
+  font-size: 13px;
+  line-height: 13px;
+  text-align: center;
+  color: #eecc88;
+}
+
+.speed-container:after {
+  content: "Speed";
+}
+
+/* a little region to communicate with the user. */
+#win {
+  width: 400px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #1b3a3f;  /* a little darker than the other similar tone */
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+#newbies {
+  font-size: 14px;
+  width: 300px;
+  float: none;
+  line-height: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-left: 0px;
+}
+
+.copy {
+  font-size: 13px;
+  float: none;
+  line-height: 20px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  color: #eecc88;
+  text-align: left;
+  font-weight: lighter;
+  font-style: italic;
+}
+
+/* unvisited link */
+a:link {
+  color: #f5f0e7;
+}
+
+/* visited link */
+a:visited {
+  color: #1e4146;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}

@@ -1,0 +1,70 @@
+{
+    "version": "0.1.0",
+    "date": "2023/06/11",
+    "rows": 3,
+    "cols": 4,
+    "ntiles": 12,
+    "initial": [
+        [
+            1,
+            4,
+            3,
+            9
+        ],
+        [
+            6,
+            5,
+            2,
+            0
+        ],
+        [
+            10,
+            11,
+            8,
+            7
+        ]
+    ],
+    "final": [
+        [
+            0,
+            1,
+            2,
+            3
+        ],
+        [
+            4,
+            5,
+            6,
+            7
+        ],
+        [
+            8,
+            9,
+            10,
+            11
+        ]
+    ],
+    "fullimage": "images/full/Lego/Lego.png",
+    "imagetiles": {
+        "0": "images/full/Lego/3x4/tile_0_0.png",
+        "1": "images/full/Lego/3x4/tile_0_1.png",
+        "2": "images/full/Lego/3x4/tile_0_2.png",
+        "3": "images/full/Lego/3x4/tile_0_3.png",
+        "4": "images/full/Lego/3x4/tile_1_0.png",
+        "5": "images/full/Lego/3x4/tile_1_1.png",
+        "6": "images/full/Lego/3x4/tile_1_2.png",
+        "7": "images/full/Lego/3x4/tile_1_3.png",
+        "8": "images/full/Lego/3x4/tile_2_0.png",
+        "9": "images/full/Lego/3x4/tile_2_1.png",
+        "10": "images/full/Lego/3x4/tile_2_2.png",
+        "11": "images/full/Lego/3x4/tile_2_3.png"
+    },
+    "difficulty": "Moderate",
+    "rating": {
+        "gold": 33,
+        "silver": 36,
+        "bronze": 40
+    },
+    "next": "2023/06/10",
+    "this": "puzzles/2023/06/11.json"
+}

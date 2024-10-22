@@ -1,0 +1,61 @@
+{
+    "version": "0.1.0",
+    "date": "2023/05/28",
+    "rows": 3,
+    "cols": 3,
+    "ntiles": 9,
+    "initial": [
+        [
+            5,
+            8,
+            4
+        ],
+        [
+            6,
+            3,
+            0
+        ],
+        [
+            7,
+            2,
+            1
+        ]
+    ],
+    "final": [
+        [
+            0,
+            1,
+            2
+        ],
+        [
+            3,
+            4,
+            5
+        ],
+        [
+            6,
+            7,
+            8
+        ]
+    ],
+    "fullimage": "images/full/Arrows/Arrows.png",
+    "imagetiles": {
+        "0": "images/full/Arrows/3x3/tile_0_0.png",
+        "1": "images/full/Arrows/3x3/tile_0_1.png",
+        "2": "images/full/Arrows/3x3/tile_0_2.png",
+        "3": "images/full/Arrows/3x3/tile_1_0.png",
+        "4": "images/full/Arrows/3x3/tile_1_1.png",
+        "5": "images/full/Arrows/3x3/tile_1_2.png",
+        "6": "images/full/Arrows/3x3/tile_2_0.png",
+        "7": "images/full/Arrows/3x3/tile_2_1.png",
+        "8": "images/full/Arrows/3x3/tile_2_2.png"
+    },
+    "difficulty": "Moderate",
+    "rating": {
+        "gold": 15,
+        "silver": 18,
+        "bronze": 21
+    },
+    "next": "2023/05/27",
+    "this": "puzzles/2023/05/28.json"
+}

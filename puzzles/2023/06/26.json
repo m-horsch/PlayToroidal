@@ -1,0 +1,61 @@
+{
+    "version": "0.1.0",
+    "date": "2023/06/26",
+    "rows": 3,
+    "cols": 3,
+    "ntiles": 9,
+    "initial": [
+        [
+            2,
+            5,
+            6
+        ],
+        [
+            1,
+            8,
+            4
+        ],
+        [
+            7,
+            3,
+            0
+        ]
+    ],
+    "final": [
+        [
+            0,
+            1,
+            2
+        ],
+        [
+            3,
+            4,
+            5
+        ],
+        [
+            6,
+            7,
+            8
+        ]
+    ],
+    "fullimage": "images/full/Floral2x2/Floral2x2.png",
+    "imagetiles": {
+        "0": "images/full/Floral2x2/3x3/tile_0_0.png",
+        "1": "images/full/Floral2x2/3x3/tile_0_1.png",
+        "2": "images/full/Floral2x2/3x3/tile_0_2.png",
+        "3": "images/full/Floral2x2/3x3/tile_1_0.png",
+        "4": "images/full/Floral2x2/3x3/tile_1_1.png",
+        "5": "images/full/Floral2x2/3x3/tile_1_2.png",
+        "6": "images/full/Floral2x2/3x3/tile_2_0.png",
+        "7": "images/full/Floral2x2/3x3/tile_2_1.png",
+        "8": "images/full/Floral2x2/3x3/tile_2_2.png"
+    },
+    "difficulty": "Moderate",
+    "rating": {
+        "gold": 14,
+        "silver": 17,
+        "bronze": 20
+    },
+    "next": "2023/06/25",
+    "this": "puzzles/2023/06/26.json"
+}

@@ -1,0 +1,43 @@
+{
+    "version": "0.1.0",
+    "date": "2023/09/05",
+    "rows": 2,
+    "cols": 2,
+    "ntiles": 4,
+    "initial": [
+        [
+            0,
+            3
+        ],
+        [
+            1,
+            2
+        ]
+    ],
+    "final": [
+        [
+            0,
+            1
+        ],
+        [
+            2,
+            3
+        ]
+    ],
+    "fullimage": "images/full/PuzzleBackground/PuzzleBackground.png",
+    "imagetiles": {
+        "0": "images/Blocks/tiles/Red/Block_A.png",
+        "1": "images/Blocks/tiles/Green/Block_B.png",
+        "2": "images/Blocks/tiles/Orange/Block_C.png",
+        "3": "images/Blocks/tiles/Blue/Block_D.png"
+    },
+    "difficulty": "Moderate",
+    "rating": {
+        "gold": 2,
+        "silver": 4,
+        "bronze": 6
+    },
+    "next": "2023/06/02",
+    "this": "puzzles/2023/06/03.json"
+}
+

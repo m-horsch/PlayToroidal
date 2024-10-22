@@ -1,0 +1,86 @@
+{
+    "version": "0.1.0",
+    "date": "2023/07/02",
+    "rows": 4,
+    "cols": 4,
+    "ntiles": 16,
+    "initial": [
+        [
+            13,
+            6,
+            10,
+            11
+        ],
+        [
+            2,
+            15,
+            9,
+            0
+        ],
+        [
+            3,
+            14,
+            12,
+            4
+        ],
+        [
+            1,
+            8,
+            7,
+            5
+        ]
+    ],
+    "final": [
+        [
+            0,
+            1,
+            2,
+            3
+        ],
+        [
+            4,
+            5,
+            6,
+            7
+        ],
+        [
+            8,
+            9,
+            10,
+            11
+        ],
+        [
+            12,
+            13,
+            14,
+            15
+        ]
+    ],
+    "fullimage": "images/Blocks/full/Diagonal2.png",
+    "imagetiles": {
+        "7": "images/Blocks/tiles/Diagonals/BlackOrangeT.png",
+        "12": "images/Blocks/tiles/Diagonals/BlackBlue.png",
+        "13": "images/Blocks/tiles/Diagonals/BlackBlueT.png",
+        "6": "images/Blocks/tiles/Diagonals/BlackOrange.png",
+        "11": "images/Blocks/tiles/Diagonals/RedBlack.png",
+        "0": "images/Blocks/tiles/Diagonals/GreenBlackT.png",
+        "1": "images/Blocks/tiles/Diagonals/GreenBlack.png",
+        "10": "images/Blocks/tiles/Diagonals/RedBlackT.png",
+        "15": "images/Blocks/tiles/Diagonals/BlackRedT.png",
+        "4": "images/Blocks/tiles/Diagonals/BlackGreen.png",
+        "5": "images/Blocks/tiles/Diagonals/BlackGreenT.png",
+        "14": "images/Blocks/tiles/Diagonals/BlackRed.png",
+        "3": "images/Blocks/tiles/Diagonals/OrangeBlack.png",
+        "8": "images/Blocks/tiles/Diagonals/BlueBlackT.png",
+        "9": "images/Blocks/tiles/Diagonals/BlueBlack.png",
+        "2": "images/Blocks/tiles/Diagonals/OrangeBlackT.png"
+    },
+    "difficulty": "Moderate",
+    "rating": {
+        "gold": 52,
+        "silver": 56,
+        "bronze": 60
+    },
+    "next": "2023/07/01",
+    "this": "puzzles/2023/07/02.json"
+}

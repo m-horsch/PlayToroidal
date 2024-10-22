@@ -1,0 +1,61 @@
+{
+    "version": "0.1.0",
+    "date": "2023/05/04",
+    "rows": 3,
+    "cols": 3,
+    "ntiles": 9,
+    "initial": [
+        [
+            0,
+            5,
+            8
+        ],
+        [
+            3,
+            4,
+            7
+        ],
+        [
+            1,
+            6,
+            2
+        ]
+    ],
+    "final": [
+        [
+            0,
+            1,
+            2
+        ],
+        [
+            3,
+            4,
+            5
+        ],
+        [
+            6,
+            7,
+            8
+        ]
+    ],
+    "fullimage": "images/full/Dogician/Dogician.png",
+    "imagetiles": {
+        "0": "images/full/Dogician/3x3/tile_0_0.png",
+        "1": "images/full/Dogician/3x3/tile_0_1.png",
+        "2": "images/full/Dogician/3x3/tile_0_2.png",
+        "3": "images/full/Dogician/3x3/tile_1_0.png",
+        "4": "images/full/Dogician/3x3/tile_1_1.png",
+        "5": "images/full/Dogician/3x3/tile_1_2.png",
+        "6": "images/full/Dogician/3x3/tile_2_0.png",
+        "7": "images/full/Dogician/3x3/tile_2_1.png",
+        "8": "images/full/Dogician/3x3/tile_2_2.png"
+    },
+    "difficulty": "Moderate",
+    "rating": {
+        "gold": 9,
+        "silver": 12,
+        "bronze": 15
+    },
+    "next": "2023/05/03",
+    "this": "puzzles/2023/05/04.json"
+}

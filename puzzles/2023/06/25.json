@@ -1,0 +1,86 @@
+{
+    "version": "0.1.0",
+    "date": "2023/06/25",
+    "rows": 4,
+    "cols": 4,
+    "ntiles": 16,
+    "initial": [
+        [
+            3,
+            14,
+            10,
+            15
+        ],
+        [
+            1,
+            12,
+            13,
+            11
+        ],
+        [
+            6,
+            5,
+            2,
+            7
+        ],
+        [
+            4,
+            9,
+            8,
+            0
+        ]
+    ],
+    "final": [
+        [
+            0,
+            1,
+            2,
+            3
+        ],
+        [
+            4,
+            5,
+            6,
+            7
+        ],
+        [
+            8,
+            9,
+            10,
+            11
+        ],
+        [
+            12,
+            13,
+            14,
+            15
+        ]
+    ],
+    "fullimage": "images/full/Scratchy2x2/Scratchy2x2.png",
+    "imagetiles": {
+        "0": "images/full/Scratchy2x2/4x4/tile_0_0.png",
+        "1": "images/full/Scratchy2x2/4x4/tile_0_1.png",
+        "2": "images/full/Scratchy2x2/4x4/tile_0_2.png",
+        "3": "images/full/Scratchy2x2/4x4/tile_0_3.png",
+        "4": "images/full/Scratchy2x2/4x4/tile_1_0.png",
+        "5": "images/full/Scratchy2x2/4x4/tile_1_1.png",
+        "6": "images/full/Scratchy2x2/4x4/tile_1_2.png",
+        "7": "images/full/Scratchy2x2/4x4/tile_1_3.png",
+        "8": "images/full/Scratchy2x2/4x4/tile_2_0.png",
+        "9": "images/full/Scratchy2x2/4x4/tile_2_1.png",
+        "10": "images/full/Scratchy2x2/4x4/tile_2_2.png",
+        "11": "images/full/Scratchy2x2/4x4/tile_2_3.png",
+        "12": "images/full/Scratchy2x2/4x4/tile_3_0.png",
+        "13": "images/full/Scratchy2x2/4x4/tile_3_1.png",
+        "14": "images/full/Scratchy2x2/4x4/tile_3_2.png",
+        "15": "images/full/Scratchy2x2/4x4/tile_3_3.png"
+    },
+    "difficulty": "Moderate",
+    "rating": {
+        "gold": 48,
+        "silver": 52,
+        "bronze": 56
+    },
+    "next": "2023/06/24",
+    "this": "puzzles/2023/06/25.json"
+}
