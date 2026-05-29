@@ -1,6 +1,6 @@
 <!--    File: ToroidalReplay.html-->
 <!--    Synopsis:  The main page to watch a Toroidal replay. -->
-<!--    Copyright (C) 2023-2024 Michael C Horsch-->
+<!--    Copyright (C) 2023-2026 Michael C Horsch-->
 
 <!--    This program is free software: you can redistribute it and/or modify-->
 <!--    it under the terms of the GNU General Public License as published by-->
@@ -18,15 +18,44 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=0.75">
+
     <title>Toroidal Replay</title>
     <link href="style/main.css" rel="stylesheet" type="text/css">
-    <link href="images/ICON/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
-    <link href="images/ICON/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
-    <link href="images/ICON/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
-    <link href="images/ICON/site.webmanifest" rel="manifest">
+    <link rel="apple-touch-icon" sizes="180x180" href="images/ICON/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/ICON/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/ICON/favicon-16x16.png">
+    <link rel="manifest" href="images/ICON/site.webmanifest">
+
+    <style>
+        /* Style added by ChatGPT to make the page display in Landscape mode on a phone. */
+
+        /* The content that will be shown in landscape */
+        .content {
+            display: none; /* Initially hidden */
+        }
+
+        /* The overlay for portrait mode */
+       .overlay {
+            display: none; /* Initially hidden */
+             flex-direction: column;
+        }
+    </style>
 </head>
 <body>
+<!--ChatGPT helped me to ask phone users to rotate to landscape!-->
+<div class="overlay" id="overlay">
+        <div id="otop">
+            <div id="ttitle">Toroidal</div>
+         </div>
 
+    <div>
+    Please rotate your phone to landscape mode.
+</div>
+</div>
+
+<div class="content" id="content">
 <div id="top">
     <div class="vl">
         <div id="ttitle">Toroidal  Replay</div>
@@ -55,13 +84,14 @@
 </div>
 
 <div id="win"></div>
-<div class="copy">Copyright &copy; 2022-2024 Michael C Horsch</div>
+<div class="copy">Copyright &copy; 2022-2026 Michael C Horsch</div>
 <div class="game-intro" id="newbies">
     <a href="Toroidal.html">Back to the Toroidal game page.</a>
 </div>
 <div class="copy"><a href="mailto:m.c.horsch@gmail.com?subject=Toroidal game">Drop me a line!</a></div>
 
 <div id="log"></div>
+</div>
 
 <script src="js/tile.js"></script>
 <script src="js/arrayutils.js"></script>
@@ -77,6 +107,27 @@
 <script src="js/Replay.js"></script>
 
 <script>
+        // Function to check screen orientation
+        function checkOrientation() {
+            const isLandscape = window.innerWidth > window.innerHeight;
+
+            if (isLandscape) {
+                document.getElementById('overlay').style.display = 'none';
+                document.getElementById('content').style.display = 'block';
+            } else {
+                document.getElementById('overlay').style.display = 'flex';
+                document.getElementById('content').style.display = 'none';
+            }
+        }
+
+        // Initial check
+        checkOrientation();
+
+        // Listen for orientation changes
+        window.addEventListener('resize', checkOrientation);
+</script>
+
+<script>
     // check the URL for the mode.
     // If no mode, then just load today's puzzle.
     // Otherwise, assume the mode's value is a JSON filename
@@ -84,7 +135,7 @@
     const urlParams = new URLSearchParams(window.location.search);
     const modeval = urlParams.get('mode');
 
-    let replay = new Replay(modeval || "third.json");
+    let replay = new Replay(modeval || "greedy3x3.json");
 
     document.getElementById("reset").onclick = function () {
         replay.reset();
