@@ -1,0 +1,40 @@
+{
+    "version": "0.2.0",
+    "rows": 3,
+    "cols": 4,
+    "ntiles": 12,
+    "final": [
+        [
+            0,
+            1,
+            2,
+            3
+        ],
+        [
+            4,
+            5,
+            6,
+            7
+        ],
+        [
+            8,
+            9,
+            10,
+            11
+        ]
+    ],
+    "imagetiles": {
+        "0": "Assets/Image-based/Lego/3x4/tile_0_0.png",
+        "1": "Assets/Image-based/Lego/3x4/tile_0_1.png",
+        "2": "Assets/Image-based/Lego/3x4/tile_0_2.png",
+        "3": "Assets/Image-based/Lego/3x4/tile_0_3.png",
+        "4": "Assets/Image-based/Lego/3x4/tile_1_0.png",
+        "5": "Assets/Image-based/Lego/3x4/tile_1_1.png",
+        "6": "Assets/Image-based/Lego/3x4/tile_1_2.png",
+        "7": "Assets/Image-based/Lego/3x4/tile_1_3.png",
+        "8": "Assets/Image-based/Lego/3x4/tile_2_0.png",
+        "9": "Assets/Image-based/Lego/3x4/tile_2_1.png",
+        "10": "Assets/Image-based/Lego/3x4/tile_2_2.png",
+        "11": "Assets/Image-based/Lego/3x4/tile_2_3.png"
+    }
+}

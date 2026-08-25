@@ -1,0 +1,857 @@
+{
+    "20230321": {
+        "type": "normal",
+        "path": "Assets/Image-based/Stars",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230323": {
+        "type": "normal",
+        "path": "Assets/Image-based/TricolourDonut",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230324": {
+        "type": "normal",
+        "path": "Assets/Image-based/Shore",
+        "tiling": "4x3_tiling.json",
+        "config": "4x3_config_a.json"
+    },
+    "20230326": {
+        "type": "normal",
+        "path": "Assets/Image-based/Fantasy",
+        "tiling": "3x4_tiling.json",
+        "config": "3x4_config_a.json"
+    },
+    "20230328": {
+        "type": "normal",
+        "path": "Assets/Image-based/Stars",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "20230329": {
+        "type": "normal",
+        "path": "Assets/Image-based/WintersDay",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230330": {
+        "type": "normal",
+        "path": "Assets/Image-based/Nightline",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230401": {
+        "type": "normal",
+        "path": "Assets/Image-based/Interior",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230403": {
+        "type": "normal",
+        "path": "Assets/Image-based/Meadows",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230405": {
+        "type": "normal",
+        "path": "Assets/Image-based/Forest",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230406": {
+        "type": "normal",
+        "path": "Assets/Image-based/Stars",
+        "tiling": "5x5_tiling.json",
+        "config": "5x5_config_a.json"
+    },
+    "20230407": {
+        "type": "normal",
+        "path": "Assets/Image-based/Fruit",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230408": {
+        "type": "normal",
+        "path": "Assets/Image-based/EscherBallColour",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230409": {
+        "type": "normal",
+        "path": "Assets/Image-based/Castle2",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230410": {
+        "type": "normal",
+        "path": "Assets/Image-based/Circuit",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230412": {
+        "type": "normal",
+        "path": "Assets/Image-based/PatternColour",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230414": {
+        "type": "normal",
+        "path": "Assets/Image-based/CubicalQuad",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230415": {
+        "type": "normal",
+        "path": "Assets/Image-based/Tritoroid",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "20230416": {
+        "type": "normal",
+        "path": "Assets/Image-based/ConcentricToroid",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230417": {
+        "type": "normal",
+        "path": "Assets/Image-based/CubicalQuad2",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230418": {
+        "type": "normal",
+        "path": "Assets/Image-based/Spherical1",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230419": {
+        "type": "normal",
+        "path": "Assets/Image-based/Octahedron3",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230420": {
+        "type": "normal",
+        "path": "Assets/Image-based/tree1",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230421": {
+        "type": "normal",
+        "path": "Assets/Image-based/Planetary",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230424": {
+        "type": "normal",
+        "path": "Assets/Image-based/CrystalQuad",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230426": {
+        "type": "normal",
+        "path": "Assets/Image-based/KaleidoA",
+        "tiling": "5x5_tiling.json",
+        "config": "5x5_config_a.json"
+    },
+    "20230428": {
+        "type": "normal",
+        "path": "Assets/Image-based/CrystalQuadB",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230430": {
+        "type": "normal",
+        "path": "Assets/Image-based/PaperGeomA",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230502": {
+        "type": "normal",
+        "path": "Assets/Image-based/StoneSq",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230503": {
+        "type": "normal",
+        "path": "Assets/Image-based/nonsym",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230504": {
+        "type": "normal",
+        "path": "Assets/Image-based/Dogician",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230505": {
+        "type": "normal",
+        "path": "Assets/Image-based/SqDiam",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230506": {
+        "type": "normal",
+        "path": "Assets/Image-based/SqDiam",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_b.json"
+    },
+    "20230507": {
+        "type": "normal",
+        "path": "Assets/Image-based/Spherical3",
+        "tiling": "5x5_tiling.json",
+        "config": "5x5_config_a.json"
+    },
+    "20230508": {
+        "type": "normal",
+        "path": "Assets/Image-based/CatBath",
+        "tiling": "4x3_tiling.json",
+        "config": "4x3_config_a.json"
+    },
+    "20230509": {
+        "type": "normal",
+        "path": "Assets/Image-based/Lamppost",
+        "tiling": "3x4_tiling.json",
+        "config": "3x4_config_a.json"
+    },
+    "20230512": {
+        "type": "normal",
+        "path": "Assets/Image-based/Quartic",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "20230513": {
+        "type": "normal",
+        "path": "Assets/Image-based/QuarticB",
+        "tiling": "5x5_tiling.json",
+        "config": "5x5_config_a.json"
+    },
+    "20230514": {
+        "type": "normal",
+        "path": "Assets/Image-based/TexturedQuart",
+        "tiling": "5x5_tiling.json",
+        "config": "5x5_config_a.json"
+    },
+    "20230521": {
+        "type": "normal",
+        "path": "Assets/Image-based/nonsym",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_b.json"
+    },
+    "20230522": {
+        "type": "normal",
+        "path": "Assets/Image-based/nonsym",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_c.json"
+    },
+    "20230523": {
+        "type": "normal",
+        "path": "Assets/Image-based/Trapezoidal2",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230524": {
+        "type": "normal",
+        "path": "Assets/Image-based/Trapezoidal2",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "20230525": {
+        "type": "normal",
+        "path": "Assets/Image-based/Trapezoidal",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230526": {
+        "type": "normal",
+        "path": "Assets/Image-based/StarsQuad2",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230527": {
+        "type": "normal",
+        "path": "Assets/Image-based/PuzzleColours",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "20230528": {
+        "type": "normal",
+        "path": "Assets/Image-based/Arrows",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230529": {
+        "type": "normal",
+        "path": "Assets/Image-based/RSquSpace1",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230530": {
+        "type": "normal",
+        "path": "Assets/Image-based/Stairs",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230601": {
+        "type": "normal",
+        "path": "Assets/Image-based/Fountain2",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230602": {
+        "type": "normal",
+        "path": "Assets/Image-based/Squares2",
+        "tiling": "5x5_tiling.json",
+        "config": "5x5_config_a.json"
+    },
+    "20230603": {
+        "type": "normal",
+        "path": "Assets/Image-based/PuzzleBackground",
+        "tiling": "2x2_tiling.json",
+        "config": "2x2_config_a.json"
+    },
+    "20230604": {
+        "type": "normal",
+        "path": "Assets/Image-based/Flags",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "20230605": {
+        "type": "normal",
+        "path": "Assets/Image-based/Infinity",
+        "tiling": "5x5_tiling.json",
+        "config": "5x5_config_a.json"
+    },
+    "20230606": {
+        "type": "normal",
+        "path": "Assets/Image-based/TorusQuart",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230607": {
+        "type": "normal",
+        "path": "Assets/Image-based/Squares",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230608": {
+        "type": "normal",
+        "path": "Assets/Image-based/Plusses",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230609": {
+        "type": "normal",
+        "path": "Assets/Image-based/Nebulae",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230610": {
+        "type": "normal",
+        "path": "Assets/Image-based/Diamonds",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230611": {
+        "type": "normal",
+        "path": "Assets/Image-based/Lego",
+        "tiling": "3x4_tiling.json",
+        "config": "3x4_config_a.json"
+    },
+    "20230612": {
+        "type": "normal",
+        "path": "Assets/Image-based/InfinitCirc",
+        "tiling": "5x5_tiling.json",
+        "config": "5x5_config_a.json"
+    },
+    "20230613": {
+        "type": "normal",
+        "path": "Assets/Image-based/Squares3",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230614": {
+        "type": "normal",
+        "path": "Assets/Image-based/Fountain1",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230615": {
+        "type": "normal",
+        "path": "Assets/Image-based/DIamondsSpec2",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "20230619": {
+        "type": "normal",
+        "path": "Assets/Image-based/SunWheels",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230620": {
+        "type": "normal",
+        "path": "Assets/Image-based/PuzzlePile",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230621": {
+        "type": "normal",
+        "path": "Assets/Image-based/Weird4x4",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "20230622": {
+        "type": "normal",
+        "path": "Assets/Image-based/Weird4x4",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230623": {
+        "type": "normal",
+        "path": "Assets/Image-based/ColourfulBars",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230624": {
+        "type": "normal",
+        "path": "Assets/Image-based/Chalet",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230625": {
+        "type": "normal",
+        "path": "Assets/Image-based/Scratchy2x2",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "20230626": {
+        "type": "normal",
+        "path": "Assets/Image-based/Floral2x2",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230627": {
+        "type": "normal",
+        "path": "Assets/Image-based/Balloon1",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230628": {
+        "type": "normal",
+        "path": "Assets/Image-based/Lightnings",
+        "tiling": "5x5_tiling.json",
+        "config": "5x5_config_a.json"
+    },
+    "20230629": {
+        "type": "normal",
+        "path": "Assets/Image-based/Rejected",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230630": {
+        "type": "normal",
+        "path": "Assets/Image-based/Rejected",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_b.json"
+    },
+    "20230706": {
+        "type": "normal",
+        "path": "Assets/Image-based/QuarticB",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230707": {
+        "type": "normal",
+        "path": "Assets/Image-based/QuarticB",
+        "tiling": "5x5_tiling.json",
+        "config": "5x5_config_b.json"
+    },
+    "20230709": {
+        "type": "normal",
+        "path": "Assets/Image-based/EscherBall",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230325": {
+        "type": "normal",
+        "path": "Assets/Block-based/Cross3x3",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230319": {
+        "type": "normal",
+        "path": "Assets/Block-based/TrainingCross3x3",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230322": {
+        "type": "normal",
+        "path": "Assets/Block-based/Cross3x3",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_b.json"
+    },
+    "20230327": {
+        "type": "normal",
+        "path": "Assets/Block-based/Squares4x4",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "20230331": {
+        "type": "normal",
+        "path": "Assets/Block-based/Cross5x5",
+        "tiling": "5x5_tiling.json",
+        "config": "5x5_config_a.json"
+    },
+    "20230402": {
+        "type": "normal",
+        "path": "Assets/Block-based/Spiral5x5",
+        "tiling": "5x5_tiling.json",
+        "config": "5x5_config_a.json"
+    },
+    "20230404": {
+        "type": "normal",
+        "path": "Assets/Block-based/BlackHole4x4",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "20230411": {
+        "type": "normal",
+        "path": "Assets/Block-based/InvertedHole4x4",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "20230413": {
+        "type": "normal",
+        "path": "Assets/Block-based/Stripes4x4",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "20230422": {
+        "type": "normal",
+        "path": "Assets/Block-based/Target4x4",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "20230423": {
+        "type": "normal",
+        "path": "Assets/Block-based/Target5x5",
+        "tiling": "5x5_tiling.json",
+        "config": "5x5_config_a.json"
+    },
+    "20230425": {
+        "type": "normal",
+        "path": "Assets/Block-based/Checkers4x4",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "20230427": {
+        "type": "normal",
+        "path": "Assets/Block-based/Stripes5x5",
+        "tiling": "5x5_tiling.json",
+        "config": "5x5_config_a.json"
+    },
+    "20230429": {
+        "type": "normal",
+        "path": "Assets/Block-based/SpiralB5x5",
+        "tiling": "5x5_tiling.json",
+        "config": "5x5_config_a.json"
+    },
+    "20230501": {
+        "type": "normal",
+        "path": "Assets/Block-based/Checkers5x5",
+        "tiling": "5x5_tiling.json",
+        "config": "5x5_config_a.json"
+    },
+    "20230510": {
+        "type": "normal",
+        "path": "Assets/Block-based/SpiralC5x5",
+        "tiling": "5x5_tiling.json",
+        "config": "5x5_config_a.json"
+    },
+    "20230511": {
+        "type": "normal",
+        "path": "Assets/Block-based/Arrow5X5",
+        "tiling": "5x5_tiling.json",
+        "config": "5x5_config_a.json"
+    },
+    "20230515": {
+        "type": "normal",
+        "path": "Assets/Block-based/CrossWord3x3_A",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230516": {
+        "type": "normal",
+        "path": "Assets/Block-based/Arrow5X5",
+        "tiling": "5x5_tiling.json",
+        "config": "5x5_config_b.json"
+    },
+    "20230517": {
+        "type": "normal",
+        "path": "Assets/Block-based/Latin4x4A",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "20230518": {
+        "type": "normal",
+        "path": "Assets/Block-based/Latin5x5A",
+        "tiling": "5x5_tiling.json",
+        "config": "5x5_config_a.json"
+    },
+    "20230519": {
+        "type": "normal",
+        "path": "Assets/Block-based/Latin4x4B",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "20230520": {
+        "type": "normal",
+        "path": "Assets/Block-based/Latin3x3A",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230531": {
+        "type": "normal",
+        "path": "Assets/Block-based/Crossword5x5",
+        "tiling": "5x5_tiling.json",
+        "config": "5x5_config_a.json"
+    },
+    "20230616": {
+        "type": "normal",
+        "path": "Assets/Block-based/MagicA",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230617": {
+        "type": "normal",
+        "path": "Assets/Block-based/MagicB",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230618": {
+        "type": "normal",
+        "path": "Assets/Block-based/MagicC",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20230701": {
+        "type": "normal",
+        "path": "Assets/Block-based/Diagonal1",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "20230702": {
+        "type": "normal",
+        "path": "Assets/Block-based/Diagonal2",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "20230703": {
+        "type": "normal",
+        "path": "Assets/Block-based/Diagonal3",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "20230704": {
+        "type": "normal",
+        "path": "Assets/Block-based/Diagonal4",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "20230705": {
+        "type": "normal",
+        "path": "Assets/Block-based/Diagonal5",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "20230708": {
+        "type": "normal",
+        "path": "Assets/Block-based/Diagonal3",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_b.json"
+    },
+    "20230710": {
+        "type": "normal",
+        "path": "Assets/Block-based/Diagonal7",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "20230711": {
+        "type": "normal",
+        "path": "Assets/Block-based/Diagonal7",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_b.json"
+    },
+    "20230712": {
+        "type": "normal",
+        "path": "Assets/Block-based/Diagonal7",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_c.json"
+    },
+    "20230713": {
+        "type": "normal",
+        "path": "Assets/Block-based/Replay10x10",
+        "tiling": "10x10_tiling.json",
+        "config": "10x10_config_a.json"
+    },
+    "20230320": {
+        "type": "normal",
+        "path": "Assets/Block-based/TrainingCross3x3_B",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "1SF": {
+        "type": "training",
+        "path": "Assets/training/1SF",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "2x2": {
+        "type": "training",
+        "path": "Assets/training/2x2",
+        "tiling": "2x2_tiling.json",
+        "config": "2x2_config_a.json"
+    },
+    "A3x3": {
+        "type": "training",
+        "path": "Assets/training/A3x3",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "B3x3": {
+        "type": "training",
+        "path": "Assets/training/B3x3",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "C3x3": {
+        "type": "training",
+        "path": "Assets/training/C3x3",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "D3x3": {
+        "type": "training",
+        "path": "Assets/training/D3x3",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "E3x3": {
+        "type": "training",
+        "path": "Assets/training/E3x3",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "F3x3": {
+        "type": "training",
+        "path": "Assets/training/F3x3",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "G4x4": {
+        "type": "training",
+        "path": "Assets/training/G4x4",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "Gutter_practice": {
+        "type": "training",
+        "path": "Assets/training/Gutter_practice",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "Gutter_practiceB": {
+        "type": "training",
+        "path": "Assets/training/Gutter_practiceB",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "H3x3": {
+        "type": "training",
+        "path": "Assets/training/H3x3",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "TLC_practice": {
+        "type": "training",
+        "path": "Assets/training/TLC_practice",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "TLC_practiceB": {
+        "type": "training",
+        "path": "Assets/training/TLC_practiceB",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "TLC_practiceC": {
+        "type": "training",
+        "path": "Assets/training/TLC_practice",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_b.json"
+    },
+    "10x10m10000": {
+        "type": "replay",
+        "path": "Assets/replay/10x10m10000",
+        "tiling": "10x10_tiling.json",
+        "config": "10x10_config_a.json",
+        "replay": "10x10_replay_a.json"
+    },
+    "1SFReplay": {
+        "type": "replay",
+        "path": "Assets/replay/1SFReplay",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json",
+        "replay": "4x4_replay_a.json"
+    },
+    "5x5m10": {
+        "type": "replay",
+        "path": "Assets/replay/5x5m10",
+        "tiling": "5x5_tiling.json",
+        "config": "5x5_config_a.json",
+        "replay": "5x5_replay_a.json"
+    },
+    "6x6m10": {
+        "type": "replay",
+        "path": "Assets/replay/6x6m10",
+        "tiling": "6x6_tiling.json",
+        "config": "6x6_config_a.json",
+        "replay": "6x6_replay_a.json"
+    },
+    "Swinging": {
+        "type": "replay",
+        "path": "Assets/replay/Swinging",
+        "tiling": "5x5_tiling.json",
+        "config": "5x5_config_a.json",
+        "replay": "5x5_replay_a.json"
+    },
+    "first": {
+        "type": "replay",
+        "path": "Assets/replay/first",
+        "tiling": "4x3_tiling.json",
+        "config": "4x3_config_a.json",
+        "replay": "4x3_replay_a.json"
+    },
+    "greedy3x3": {
+        "type": "replay",
+        "path": "Assets/replay/greedy3x3",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json",
+        "replay": "3x3_replay_a.json"
+    },
+    "second": {
+        "type": "replay",
+        "path": "Assets/replay/second",
+        "tiling": "5x5_tiling.json",
+        "config": "5x5_config_a.json",
+        "replay": "5x5_replay_a.json"
+    },
+    "third": {
+        "type": "replay",
+        "path": "Assets/replay/third",
+        "tiling": "10x10_tiling.json",
+        "config": "10x10_config_a.json",
+        "replay": "10x10_replay_a.json"
+    }
+}

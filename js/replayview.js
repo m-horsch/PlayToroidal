@@ -1,7 +1,7 @@
 //     File: replayview.js
 //     Synopsis: A ReplayView contains the information and technology to present
 //     the recorded replay to the viewer.
-//     Copyright (C) 2023-2024 Michael C Horsch
+//     Copyright (C) 2023-2026 Michael C Horsch
 //
 //     This program is free software: you can redistribute it and/or modify
 //     it under the terms of the GNU General Public License as published by
@@ -51,7 +51,7 @@ class ReplayView extends Baseview {
     reset() {
         // TO be executed when the user hits [Reset]
 
-        console.log("starting reset for replayview");
+        // console.log("starting reset for replayview");
 
         this.initialize();
         this.updateTable();

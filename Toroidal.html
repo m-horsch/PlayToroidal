@@ -23,32 +23,32 @@
 
     <title>Toroidal</title>
     <link href="style/main.css" rel="stylesheet" type="text/css">
-    <link rel="apple-touch-icon" sizes="180x180" href="images/ICON/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="images/ICON/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="images/ICON/favicon-16x16.png">
-    <link rel="manifest" href="images/ICON/site.webmanifest">
+    <link rel="apple-touch-icon" sizes="180x180" href="Assets/ICON/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="Assets/ICON/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="Assets/ICON/favicon-16x16.png">
+    <link rel="manifest" href="Assets/ICON/site.webmanifest">
 
     <style>
         .content {
             display: none; /* Initially hidden */
         }
 
-       .overlay {
+        .overlay {
             display: none; /* Initially hidden */
-             flex-direction: column;
+            flex-direction: column;
         }
     </style>
 </head>
 <body>
 
 <div class="overlay" id="overlay">
-        <div id="otop">
-            <div id="ttitle">Toroidal</div>
-         </div>
+    <div id="otop">
+        <div id="ttitle">Toroidal</div>
+    </div>
 
-<div>
-    Please rotate your phone to landscape mode.
-</div>
+    <div>
+        Please rotate your phone to landscape mode.
+    </div>
 </div>
 
 <div class="content" id="content">
@@ -96,6 +96,7 @@
 <script src="js/baseview.js"></script>
 <script src="js/view.js"></script>
 <script src="js/progressMonitor.js"></script>
+<script src="js/loadData.js"></script>
 <script src="js/Game.js"></script>
 
 <script>
@@ -119,22 +120,24 @@
         window.addEventListener('resize', checkOrientation);
 </script>
 
-<script>
-    // check the URL for the mode.
-    // If no mode, then just load random puzzle.
-    // Otherwise, assume the mode's value is a JSON filename
+<script type="module">
 
+    // check the URL for the mode.
     const urlParams = new URLSearchParams(window.location.search);
     const modeval = urlParams.get('mode');
-    // console.log("mode: " + modeval);
-    const firstpuzz = new Date('2023-03-19');
-    const lastpuzz = new Date('2023-07-13');
+    // const modeval = "10x10m10000";  // replay
+    // const modeval = "20230528";  // normal
 
-    let game = new Game(modeval || getpuzz(getRandomDate(firstpuzz, lastpuzz))+".json");
+    const puzzlesIndex = await grabPUZZLESJSON();
+    const entry = await getEntry(modeval, puzzlesIndex);
+
+    let game = new Game(entry);
+    await game.init();
 
     document.getElementById("reset").onclick = function () {
         game.reset();
     }
+
 </script>
 </body>
 </html>

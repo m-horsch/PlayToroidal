@@ -1,6 +1,6 @@
 //     File: playlevel.js
 //     Synopsis: A Playlevel represents all the details for a particular puzzle.
-//     Copyright (C) 2023-2024 Michael C Horsch
+//     Copyright (C) 2023-2026 Michael C Horsch
 //
 //     This program is free software: you can redistribute it and/or modify
 //     it under the terms of the GNU General Public License as published by
@@ -22,7 +22,7 @@
 // TODO: Crossword puzzles, possibly without any "goal" showing; the problem is to figure out the words!
 
 class Playlevel extends Baselevel {
-    constructor(details) {
+    constructor(tiling, config) {
         /*
         A Playlevel represents all the details for a particular puzzle.  It's the model in MVC.
         It's a bit redundant, as most of these details are in the given JSON object.
@@ -30,12 +30,12 @@ class Playlevel extends Baselevel {
         It also stores the two Torus objects for the start and end states, and various other
         data.
          */
-        super(details);
+        super(tiling, config);
 
         // auxiliary state for display
-        this.blurb = details.blurb || null;
-        this.rating = details.rating || null;
-        this.nextPage = details.next || getpuzz(getRandomDate(firstpuzz, lastpuzz));
+        this.blurb = config.blurb || null;
+        this.rating = config.rating || null;
+        this.nextPage = null;  // TODO: get rid of this!
 
         // a function to check if the state and the goal state are the same
         this.goalStateReached = this.theGoalTorus.equalityTestF(this.theTorus);

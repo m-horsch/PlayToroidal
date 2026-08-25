@@ -1,0 +1,70 @@
+{
+    "version": "0.2.0",
+    "rows": 5,
+    "cols": 5,
+    "ntiles": 25,
+    "final": [
+        [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        [
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        [
+            10,
+            11,
+            12,
+            13,
+            14
+        ],
+        [
+            15,
+            16,
+            17,
+            18,
+            19
+        ],
+        [
+            20,
+            21,
+            22,
+            23,
+            24
+        ]
+    ],
+    "imagetiles": {
+        "0": "Assets/Image-based/QuarticB/5x5/tile_0_0.png",
+        "1": "Assets/Image-based/QuarticB/5x5/tile_0_1.png",
+        "2": "Assets/Image-based/QuarticB/5x5/tile_0_2.png",
+        "3": "Assets/Image-based/QuarticB/5x5/tile_0_3.png",
+        "4": "Assets/Image-based/QuarticB/5x5/tile_0_4.png",
+        "5": "Assets/Image-based/QuarticB/5x5/tile_1_0.png",
+        "6": "Assets/Image-based/QuarticB/5x5/tile_1_1.png",
+        "7": "Assets/Image-based/QuarticB/5x5/tile_1_2.png",
+        "8": "Assets/Image-based/QuarticB/5x5/tile_1_3.png",
+        "9": "Assets/Image-based/QuarticB/5x5/tile_1_4.png",
+        "10": "Assets/Image-based/QuarticB/5x5/tile_2_0.png",
+        "11": "Assets/Image-based/QuarticB/5x5/tile_2_1.png",
+        "12": "Assets/Image-based/QuarticB/5x5/tile_2_2.png",
+        "13": "Assets/Image-based/QuarticB/5x5/tile_2_3.png",
+        "14": "Assets/Image-based/QuarticB/5x5/tile_2_4.png",
+        "15": "Assets/Image-based/QuarticB/5x5/tile_3_0.png",
+        "16": "Assets/Image-based/QuarticB/5x5/tile_3_1.png",
+        "17": "Assets/Image-based/QuarticB/5x5/tile_3_2.png",
+        "18": "Assets/Image-based/QuarticB/5x5/tile_3_3.png",
+        "19": "Assets/Image-based/QuarticB/5x5/tile_3_4.png",
+        "20": "Assets/Image-based/QuarticB/5x5/tile_4_0.png",
+        "21": "Assets/Image-based/QuarticB/5x5/tile_4_1.png",
+        "22": "Assets/Image-based/QuarticB/5x5/tile_4_2.png",
+        "23": "Assets/Image-based/QuarticB/5x5/tile_4_3.png",
+        "24": "Assets/Image-based/QuarticB/5x5/tile_4_4.png"
+    }
+}

@@ -1,7 +1,7 @@
 //     File: baselevel.js
 //     Synopsis: A base class for PlayLevel and ReplayLevel.  A Baselevel
 //               represents all the details for a particular puzzle.
-//     Copyright (C) 2023-2024 Michael C Horsch
+//     Copyright (C) 2023-2026 Michael C Horsch
 //
 //     This program is free software: you can redistribute it and/or modify
 //     it under the terms of the GNU General Public License as published by
@@ -18,12 +18,11 @@
 
 // TODO: store and retrieve statistics for each puzzle
 // TODO: display "personal bests"
-// TODO: revise puzzle file structure so that puzzles are indexed
 // TODO: highlight tiles that are in the right place
 // TODO: Crossword puzzles, possibly without any "goal" showing; the problem is to figure out the words!
 
 class Baselevel {
-    constructor(details) {
+    constructor(tiling, config) {
         /*
         A Baselevel represents all the details for a particular puzzle.  It's the model in MVC.
         It's a bit redundant, as most of these details are in the given JSON object.
@@ -33,29 +32,32 @@ class Baselevel {
          */
 
         // console.log("starting level constructor");
-        this.ROWS = details.rows;
-        this.COLS = details.cols;
-        this.initial = details.initial;
+        // console.log("tiling:", tiling);
+        // console.log("config:", config);
+        this.ROWS = tiling.rows;
+        this.COLS = tiling.cols;
+        this.initial = config.initial;
 
         // initialize the goal torus, with a 2D array of integers
         // this is the end state
         //   the integers have to be the same as in the startArray,
         //   though they should be in a different order
-        this.theGoalTorus = new Torus(details.final);
+        // console.log("creating new torus with ", tiling.final);
+        this.theGoalTorus = new Torus(tiling.final);
 
         // initialize the state torus, with a 2D array of integers
         // this is the start state
         //   the integers have to be the same as in the goalArray,
         //   though they should be in a different order
 
-        this.theTorus = new Torus(details.initial);
+        this.theTorus = new Torus(config.initial);
 
         // The tile images are stored here,
         // but initialized in methods loadTileImages, makeTiles
         // console.log("details.imagetiles " + details.imagetiles);
         // console.log("details.ntiles " + details.ntiles);
-        this.tilesPathDict = details.imagetiles; // a dictionary that describes the location of the tile images
-        this.ntiles = details.ntiles;
+        this.tilesPathDict = tiling.imagetiles; // a dictionary that describes the location of the tile images
+        this.ntiles = tiling.ntiles;
         this.theImagesRaw = []; // store the smaller images
         this.theTiles = [];     // the torus of smaller images displayed as the puzzle
 

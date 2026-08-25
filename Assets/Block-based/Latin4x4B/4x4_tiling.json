@@ -1,0 +1,50 @@
+{
+    "version": "0.2.0",
+    "rows": 4,
+    "cols": 4,
+    "ntiles": 16,
+    "final": [
+        [
+            2,
+            3,
+            0,
+            1
+        ],
+        [
+            7,
+            5,
+            6,
+            4
+        ],
+        [
+            8,
+            10,
+            9,
+            11
+        ],
+        [
+            13,
+            12,
+            15,
+            14
+        ]
+    ],
+    "imagetiles": {
+        "0": "Assets/Blocks/Blue/Block_0.png",
+        "1": "Assets/Blocks/Blue/Block_1.png",
+        "2": "Assets/Blocks/Blue/Block_2.png",
+        "3": "Assets/Blocks/Blue/Block_3.png",
+        "4": "Assets/Blocks/Red/Block_0.png",
+        "5": "Assets/Blocks/Red/Block_1.png",
+        "6": "Assets/Blocks/Red/Block_2.png",
+        "7": "Assets/Blocks/Red/Block_3.png",
+        "8": "Assets/Blocks/Green/Block_0.png",
+        "9": "Assets/Blocks/Green/Block_1.png",
+        "10": "Assets/Blocks/Green/Block_2.png",
+        "11": "Assets/Blocks/Green/Block_3.png",
+        "12": "Assets/Blocks/Yellow/Block_0.png",
+        "13": "Assets/Blocks/Yellow/Block_1.png",
+        "14": "Assets/Blocks/Yellow/Block_2.png",
+        "15": "Assets/Blocks/Yellow/Block_3.png"
+    }
+}

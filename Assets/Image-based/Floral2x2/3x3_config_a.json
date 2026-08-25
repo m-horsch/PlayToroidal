@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "rows": 3,
+    "cols": 3,
+    "ntiles": 9,
+    "initial": [
+        [
+            2,
+            5,
+            6
+        ],
+        [
+            1,
+            8,
+            4
+        ],
+        [
+            7,
+            3,
+            0
+        ]
+    ],
+    "difficulty": "Moderate",
+    "rating": {
+        "gold": 14,
+        "silver": 17,
+        "bronze": 20
+    }
+}

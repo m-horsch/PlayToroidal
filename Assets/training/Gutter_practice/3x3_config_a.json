@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "rows": 3,
+    "cols": 3,
+    "ntiles": 9,
+    "initial": [
+        [
+            0,
+            1,
+            6
+        ],
+        [
+            3,
+            4,
+            5
+        ],
+        [
+            2,
+            8,
+            7
+        ]
+    ],
+    "difficulty": "Easy",
+    "rating": {
+        "gold": 5,
+        "silver": 7,
+        "bronze": 10
+    },
+    "blurb": "Practice completing the gutter.  Then close this browser tab."
+}

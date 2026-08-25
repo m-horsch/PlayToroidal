@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "rows": 3,
+    "cols": 3,
+    "ntiles": 3,
+    "initial": [
+        [
+            2,
+            1,
+            1
+        ],
+        [
+            0,
+            1,
+            0
+        ],
+        [
+            0,
+            0,
+            1
+        ]
+    ],
+    "difficulty": "Moderate",
+    "rating": {
+        "gold": 6,
+        "silver": 9,
+        "bronze": 12
+    },
+    "blurb": "One strategy is to solve the middle first, then the corners."
+}

@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "rows": 3,
+    "cols": 3,
+    "ntiles": 4,
+    "initial": [
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            2
+        ],
+        [
+            0,
+            3,
+            1
+        ]
+    ],
+    "difficulty": "Easy",
+    "rating": {
+        "gold": 4,
+        "silver": 6,
+        "bronze": 8
+    },
+    "blurb": "To place the red block, move it out of the way (to the right), then bring the orange block to the bottom level.  Push the orange block left, and shift the red block into place."
+}

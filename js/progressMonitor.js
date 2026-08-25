@@ -1,6 +1,6 @@
 //     File: progressMonitor.js
 //     Synopsis: Object to report and update performance (moves, time) on the page.
-//     Copyright (C) 2023-2024 Michael C Horsch
+//     Copyright (C) 2023-2026 Michael C Horsch
 //
 //     This program is free software: you can redistribute it and/or modify
 //     it under the terms of the GNU General Public License as published by

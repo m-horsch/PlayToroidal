@@ -1,0 +1,447 @@
+== Buffs ==
+{| class="wikitable"
+!Buff Name!!Type!!Description!!colspan=2|Sources!!Icon
+|-
+|rowspan=2 {{HE|Aegis}}|
+=== Aegis ===
+| Minor || Take 5% less damage from Dungeon, Trial and Arena Monsters.
+! Sets
+| [[ON:Aegis of Galenwe|Aegis of Galenwe]], [[ON:Automated Defense|Automated Defense]], [[ON:Claw of Yolnahkriin|Claw of Yolnahkriin]], [[ON:Eternal Warrior|Eternal Warrior]], [[ON:Eye of Nahviintaas|Eye of Nahviintaas]], [[ON:Inventor's Guard|Inventor's Guard]], [[ON:Kyne's Wind|Kyne's Wind]], [[ON:Lucent Echoes|Lucent Echoes]], [[ON:Lunar Bastion|Lunar Bastion]], [[ON:Oakensoul Ring|Oakensoul Ring]], [[ON:Pearlescent Ward|Pearlescent Ward]], [[ON:Pillager's Profit|Pillager's Profit]], [[ON:Saxhleel Champion|Saxhleel Champion]], [[ON:Stone-Talker's Oath|Stone-Talker's Oath]], [[ON:Test of Resolve|Test of Resolve]], [[ON:Transformative Hope|Transformative Hope]], [[ON:Twilight Remedy|Twilight Remedy]], [[ON:Vestment of Olorime|Vestment of Olorime]], [[ON:Vrol's Command|Vrol's Command]], [[ON:Xoryn's Masterpiece|Xoryn's Masterpiece]]
+|[[File:ON-icon-misc-Minor Aegis.png|64px]]
+|-
+| ''Major'' || Take 10% less damage from Dungeon, Trial and Arena Monsters.
+! Sets
+| [[Online:Automated Defense|Automated Defense]], [[Online:Inventor's Guard|Inventor's Guard]], [[Online:Ironblood|Ironblood]], [[Online:Test of Resolve|Test of Resolve]], [[Online:Vrol's Command|Vrol's Command]]
+|[[File:ON-icon-misc-Major Aegis.png|64px]]
+|-
+|rowspan=4 {{HE|Berserk}}|
+=== Berserk ===
+|rowspan=2| ''Minor'' ||rowspan=2| Increases all damage done by 5%.
+! Abilities
+| [[ON:Ambush|Ambush]], [[ON:Falcon's Swiftness|Bird of Prey]], [[ON:Expert Hunter|Camouflaged Hunter]], [[ON:Blessing of Protection|Combat Prayer]], [[ON:Dark Exchange|Dark Exchange]]
+|rowspan=2|[[File:ON-icon-misc-Minor Berserk.png|64px]]
+|-
+! Sets
+| [[ON:Kinras's Wrath|Kinras's Wrath]], [[ON:Oakensoul Ring|Oakensoul Ring]], [[ON:Slimecraw_(set)|Slimecraw]], [[ON:Stone's Accord|Stone's Accord]]
+|-
+|rowspan=2| ''Major'' ||rowspan=2| Increases all damage done by 10%.
+! Abilities
+| [[ON:Fiery Grip|Chains of Devastation]], [[ON:Hircine's Bounty|Hircine's Rage]], [[ON:Mark Target|Reaper's Mark]], [[ON:Summon Storm Atronach|Summon Storm Atronach]], [[ON:Uppercut|Wrecking Blow]]
+|rowspan=2|[[File:ON-icon-misc-Major Berserk.png|64px]]
+|-
+! Sets
+| [[ON:Heem-Jas' Retribution|Heem-Jas' Retribution]], [[ON:Kinras's Wrath|Kinras's Wrath]], [[ON:The Saint and the Seducer|The Saint and the Seducer]], [[ON:Sea-Serpent's Coil|Sea-Serpent's Coil]], [[ON:Tharriker's Strike|Tharriker's Strike]], [[ON:Unchained Aggressor|Unchained Aggressor]]
+|-
+|rowspan=5 {{HE|Brutality}}|
+
+=== Brutality ===
+|rowspan=2| ''Minor'' ||rowspan=2| Increases weapon damage by 10%.
+! Abilities
+| [[ON:Mountain's Blessing|Mountain's Blessing]]
+|rowspan=2|[[File:ON-icon-misc-Minor Brutality.png|64px]]
+|-
+! Potions
+| {{Effect Link|Increase Weapon Power}} Poison
+|-
+|rowspan=3| ''Major'' ||rowspan=3| Increases weapon damage by 20%.
+! Abilities
+| [[ON:Betty Netch (skill)|Betty Netch]], [[ON:Puncturing Strikes|Biting Jabs]], [[ON:Entropy|Degeneration]], [[ON:Drain Power|Drain Power]], [[ON:Hidden Blade|Hidden Blade]], [[ON:Hircine's Bounty|Hircine's Bounty]], [[ON:Molten Weapons|Molten Weapons]], [[ON:Momentum|Momentum]], [[ON:Surge|Surge]], [[ON:Pariah's Resolve|Pariah's Resolve]], [[ON:Poison Arrow|Venom Arrow]], [[ON:Tome-Bearer's Inspiration|Tome-Bearer's Inspiration]], [[ON:Skeletal Mage|Skeletal Mage]]
+|rowspan=3|[[File:ON-icon-misc-Major Brutality.png|64px]]
+|-
+! Sets
+| [[ON:Dreugh King Slayer|Dreugh King Slayer]], [[ON:Oakensoul Ring|Oakensoul Ring]], [[ON:Rattlecage|Rattlecage]]
+|-
+! Potions
+| {{Effect Link|Increase Weapon Power}} Potion
+|-
+|rowspan=3 {{HE|Courage}}|
+
+=== Courage ===
+|rowspan=2| ''Minor'' ||rowspan=2| Increase your Weapon and Spell Damage by 215
+! Abilities
+| [[ON:Arcanist's Domain|Arcanist's Domain]], [[ON:Drain Power|Power Extraction]], [[ON:Werewolf Transformation|Pack Leader]]
+|rowspan=2|[[File:ON-icon-misc-Minor Courage.png|64px]]
+|-
+! Sets
+| [[ON:Claw of Yolnahkriin|Claw of Yolnahkriin]], [[ON:Crusader|Crusader]], [[ON:Magma Incarnate (set)|Magma Incarnate]], [[ON:Oakensoul Ring|Oakensoul Ring]], [[ON:Pangrit Denmother|Pangrit Denmother]], [[ON:Phoenix Moth Theurge|Phoenix Moth Theurge]]
+|-
+|''Major'' || Increase your Weapon and Spell Damage by 430
+! Sets
+| [[ON:Nix-Hound's Howl|Nix-Hound's Howl]], [[ON:The Saint and the Seducer|The Saint and the Seducer]], [[ON:Sea-Serpent's Coil|Sea-Serpent's Coil]], [[ON:Spell Power Cure|Spell Power Cure]], [[ON:Vestment of Olorime|Vestment of Olorime]]
+|[[File:ON-icon-misc-Major Courage.png|64px]]
+|-
+|rowspan=2 {{HE|Empower}}|
+
+=== Empower ===
+|rowspan=2| ''-'' ||rowspan=2| Increases damage against monsters with Heavy Attacks by 70%.
+! Abilities
+| [[ON:Teleport Strike|Ambush]], [[ON:Grave Grasp|Empowering Grasp]], [[ON:Piercing Howl|Howl of Despair]], [[ON:Might of the Guild|Might of the Guild]], [[ON:Molten Weapons|Molten Armaments]], [[ON:Solar Flare|Solar Flare]], [[ON:Uppercut|Wrecking Blow]]
+|rowspan=2| [[File:ON-icon-misc-Major Empower.png|64px]]
+|-
+! Sets
+| [[ON:Aegis of Galenwe|Aegis of Galenwe]], [[ON:Grisly Gourmet|Grisly Gourmet]], [[ON:Might of the Lost Legion|Might of the Lost Legion]], [[ON:Oakensoul Ring|Oakensoul Ring]], [[ON:Queen's Elegance|Queen's Elegance]], [[ON:Rage of the Ursauk|Rage of the Ursauk]]
+
+|-
+|rowspan=5 {{HE|Endurance}}|
+
+=== Endurance ===
+|rowspan=2| ''Minor'' ||rowspan=2| Increases stamina recovery by 15%.
+! Abilities
+| [[ON:Arcanist's Domain|Arcanist's Domain]], [[ON:Circle of Protection|Circle of Protection]], [[ON:Fungal Growth|Enchanted Growth]], [[ON:Hircine's Fortitude|Hircine's Fortitude]], [[ON:Momentum|Momentum]], [[ON:Refreshing Path|Refreshing Path]], [[ON:Conjured Ward|Regenerative Ward]], [[ON:Restoring Aura|Restoring Aura]]
+|rowspan=2|[[File:ON-icon-misc-Minor Endurance.png|64px]]
+|-
+! Sets
+| [[ON:Oakensoul Ring|Oakensoul Ring]]
+|-
+|rowspan=3| ''Major'' ||rowspan=3| Increases stamina recovery by 30%.
+! Abilities
+| [[ON:Dragon Blood|Green Dragon Blood]], [[ON:Pariah's Resolve|Pariah's Resolve]]
+|rowspan=3|[[File:ON-icon-misc-Major Endurance.png|64px]]
+|-
+! Sets
+| [[ON:Apocryphal Inspiration|Apocryphal Inspiration]]
+|-
+! Potions
+| {{Effect Link|Restore Stamina}} Potion
+|-
+|rowspan=4 {{HE|Evasion}}|
+
+=== Evasion ===
+|rowspan=2|  ''Minor'' ||rowspan=2| Reduces damage from area attacks by 10%.
+! Abilities
+| [[ON:Circumvented Fate|Circumvented Fate]], [[ON:Falcon's Swiftness|Deceptive Predator]]
+|rowspan=2|[[File:ON-icon-misc-Minor Evasion.png|64px]]
+|-
+! Sets
+| [[ON:Abyssal Brace|Abyssal Brace]]
+|-
+|rowspan=2| ''Major'' ||rowspan=2| Reduces damage from area attacks by 20%.
+! Abilities
+| [[ON:Blade Cloak|Blade Cloak]], [[ON:Blur|Blur]], [[ON:Mist Form|Elusive Mist]], [[ON:Evasion|Evasion]]
+|rowspan=2|[[File:ON-icon-misc-Major Evasion.png|64px]]
+|-
+! Sets
+| [[ON:Gossamer|Gossamer]], [[ON:Grace of Gloom|Grace of Gloom]], [[ON:Hist Bark|Hist Bark]], [[ON:Leki's Focus|Leki's Focus]], [[ON:The Saint and the Seducer|The Saint and the Seducer]], [[ON:Spectre's Eye|Spectre's Eye]]
+|-
+|rowspan=5 {{HE|Expedition}}|
+=== Expedition ===
+|rowspan=2| ''Minor'' ||rowspan=2| Increases movement speed by 15%.
+! Abilities
+| [[ON:Drain Essence|Accelerating Drain]], [[ON:Rapid Maneuver|Charging Maneuver]], [[ON:Veiled Strike|Concealed Weapon]], [[ON:Healing Ritual|Hasty Prayer]], [[ON:Lightning Form|Hurricane]], [[ON:Force Siphon|Quick Siphon]]
+|rowspan=2|[[File:ON-icon-misc-Minor Expedition.png|64px]]
+|-
+! Sets
+| [[ON:Gryphon's Ferocity|Gryphon's Ferocity]], [[ON:Jailbreaker|Jailbreaker]]
+|-
+|rowspan=3| ''Major'' ||rowspan=3| Increases movement speed by 30%.
+! Abilities
+| [[ON:Accelerate|Accelerate]], [[ON:Lightning Form|Boundless Storm]], [[ON:Evasion|Elude]], [[ON:Mist Form|Elusive Mist]], [[ON:Falcon's Swiftness|Falcon's Swiftness]], [[ON:Fiery Grip|Fiery Grip]], [[ON:Apocryphal Gate|Fleet-Footed Gate]], [[ON:Frozen Gate|Frozen Retreat]], [[ON:Hasty Retreat|Hasty Retreat]], [[ON:Padomaic Sprint|Padomaic Sprint]], [[ON:Pariah's Resolve|Pariah's Resolve]], [[ON:Path of Darkness|Path of Darkness]], [[ON:Blade Cloak|Quick Cloak]], [[ON:Rapid Maneuver|Rapid Maneuver]]
+|rowspan=3|[[File:ON-icon-misc-Major Expedition.png|64px]]
+|-
+! Sets
+| [[ON:Adept Rider|Adept Rider]], [[ON:Coward's Gear|Coward's Gear]], [[ON:Daedric Trickery|Daedric Trickery]], [[ON:Dreugh King Slayer|Dreugh King Slayer]], [[ON:False God's Devotion|False God's Devotion]], [[ON:Quick Serpent|Quick Serpent]], [[ON:Skooma Smuggler|Skooma Smuggler]], [[ON:Vicious Serpent|Vicious Serpent]]
+|-
+! Potions
+| {{Effect Link|Speed}} Potion or Poison
+|-
+|rowspan=4 {{HE|Force}}|
+=== Force ===
+|rowspan=2| ''Minor'' ||rowspan=2| Increases critical damage done by 10%.
+! Abilities
+| [[ON:Accelerate|Accelerate]], [[ON:Dark Exchange|Dark Deal]], [[ON:Piercing Howl|Howl of Despair]], [[ON:Guard (skill)|Stalwart Guard]], [[ON:Trap Beast|Trap Beast]]
+|rowspan=2|[[File:ON-icon-misc-Minor Force.png|64px]]
+|-
+! Sets
+| [[ON:The Blind (set)|The Blind (set)]], [[ON:Grave Inevitability|Grave Inevitability]], [[ON:Gryphon's Ferocity|Gryphon's Ferocity]], [[ON:Medusa|Medusa]], [[ON:Oakensoul Ring|Oakensoul Ring]], [[ON:Phoenix Moth Theurge|Phoenix Moth Theurge]], [[ON:Twilight Remedy|Twilight Remedy]], [[ON:Tzogvin's Warband|Tzogvin's Warband]], [[ON:Velothi Ur-Mage's Amulet|Velothi Ur-Mage's Amulet]]
+|-
+|rowspan=2| ''Major'' ||rowspan=2| Increases critical damage done by 20%.
+! Abilities
+| [[ON:War Horn|Aggressive Horn]], [[ON:Panacea|Light's Champion]]
+|rowspan=2|[[File:ON-icon-misc-Major Force.png|64px]]
+|-
+! Sets
+| [[ON:Grave Inevitability|Grave Inevitability]], [[ON:Grisly Gourmet|Grisly Gourmet]], [[ON:The Saint and the Seducer|The Saint and the Seducer]], [[ON:Saxhleel Champion|Saxhleel Champion]]
+|-
+|rowspan=5 {{HE|Fortitude}}|
+===Fortitude===
+|rowspan=2| ''Minor'' ||rowspan=2| Increases health recovery by 15%.
+! Abilities
+| [[ON:Arcanist's Domain|Arcanist's Domain]], [[ON:Hircine's Bounty|Hircine's Fortitude]], [[ON:Restoring Aura|Restoring Aura]]
+|rowspan=2|[[File:ON-icon-misc-Minor Fortitude.png|64px]]
+|-
+! Sets
+|[[ON:Oakensoul Ring|Oakensoul Ring]]
+|-
+|rowspan=3| ''Major'' ||rowspan=3| Increases health recovery by 30%.
+! Abilities
+| [[ON:Dragon Blood|Dragon Blood]]
+|rowspan=3|[[File:ON-icon-misc-Major Fortitude.png|64px]]
+|-
+! Sets
+|[[ON:Apocryphal Inspiration|Apocryphal Inspiration]]
+|-
+! Potions
+| {{Effect Link|Restore Health}} Potion
+|-
+|rowspan=2 {{HE|Gallop}}|
+===Gallop===
+|rowspan=2| ''- (Counts as a Minor Buff)'' ||rowspan=2| Increases mounted speed by 15%. (Multiplicatively)
+! Abilities
+| [[ON:Continuous Attack|Continuous Attack]]
+|rowspan=2| [[File:ON-icon-misc-Major Gallop.png|64px]]
+|-
+! Sets
+| [[ON:Adept Rider|Adept Rider]]
+|-
+|rowspan=6 {{HE|Heroism}}|
+
+===Heroism===
+|rowspan=3| ''Minor'' ||rowspan=3| Generates 1 Ultimate every 1.5 seconds. ''(Only while in combat)''
+! Abilities
+| [[ON:Runemend|Audacious Runemend]], [[ON:Low Slash|Heroic Slash]]
+|rowspan=3|[[File:ON-icon-misc-Minor Heroism.png|64px]]
+|-
+! Sets
+| [[ON:Champion of the Hist|Champion of the Hist]], [[ON:Cryptcanon Vestments|Cryptcanon Vestments]], [[ON:Daring Corsair|Daring Corsair]], [[ON:Gardener of Seasons|Gardener of Seasons]], [[ON:Indomitable Fury|Indomitable Fury]], [[ON:Oakensoul Ring|Oakensoul Ring]], [[ON:Reawakened Hierophant|Reawakened Hierophant]], [[ON:Ritemaster's Bond|Ritemaster's Bond]], [[ON:Shalk Exoskeleton|Shalk Exoskeleton]]
+|-
+! Potions
+| {{Effect Link|Heroism}} Potion
+|-
+|rowspan=3| ''Major'' ||rowspan=3| Generates 3 Ultimate every 1.5 seconds. ''(Only while in combat)''
+! Abilities
+| [[ON:Crystallized Shield|Shimmering Shield]]
+|rowspan=3|[[File:ON-icon-misc-Major Heroism.png|64px]]
+|-
+! Sets
+| [[ON:Basalt-Blooded Warrior|Basalt-Blooded Warrior]], [[ON:Daedric Trickery|Daedric Trickery]], [[ON:Drake's Rush|Drake's Rush]], [[ON:Hanu's Compassion|Hanu's Compassion]], [[ON:Transformative Hope|Transformative Hope]]
+|-
+! Champion
+| [[ON:Last Stand|Last Stand]]
+|-
+|rowspan=4 {{HE|Intellect}}|
+
+===Intellect===
+|rowspan=2| ''Minor'' ||rowspan=2|Increases magicka recovery by 15%.
+! Abilities
+| [[ON:Arcanist's Domain|Arcanist's Domain]], [[ON:Fungal Growth|Enchanted Growth]], [[ON:Conjured Ward|Regenerative Ward]], [[ON:Restoring Aura|Restoring Aura]], [[ON:Path of Darkness|Refreshing Path]]
+|rowspan=2|[[File:ON-icon-misc-Minor Intellect.png|64px]]
+|-
+! Sets
+| [[ON:Oakensoul Ring|Oakensoul Ring]]
+|-
+|rowspan=2| ''Major'' ||rowspan=2| Increases magicka recovery by 30%.
+! Sets
+| [[ON:Apocryphal Inspiration|Apocryphal Inspiration]]
+|rowspan=2|[[File:ON-icon-misc-Major Intellect.png|64px]]
+|-
+! Potions
+| {{Effect Link|Restore Magicka}} Potion
+|-
+|rowspan=4 {{HE|Mending}}|
+===Mending===
+|rowspan=2|  ''Minor'' ||rowspan=2| Increases healing done by 8%.
+! Abilities
+| [[ON:Malevolent Offering|Healthy Offering]], [[ON:Sacred Ground|Sacred Ground]]
+|rowspan=2|[[File:ON-icon-misc-Minor Mending.png|64px]]
+|-
+! Sets
+| [[ON:Healer's Habit|Healer's Habit]], [[ON:Naga Shaman|Naga Shaman]], [[ON:Oakensoul Ring|Oakensoul Ring]]
+|-
+|rowspan=2| ''Major'' ||rowspan=2| Increases healing done by 16%.
+! Abilities
+| [[Online:Accelerated Growth|Accelerated Growth]], [[ON:Essence Drain|Essence Drain]], [[ON:Obsidian Shield|Obsidian Shield]]
+|rowspan=2|[[File:ON-icon-misc-Major Mending.png|64px]]
+|-
+! Sets
+| [[ON:Daedric Trickery|Daedric Trickery]], [[ON:Wisdom of Vanus|Wisdom of Vanus]]
+|-
+|rowspan=1 {{HE|Physical Resistance}}|
+===Physical Resistance===
+|rowspan=1| ||rowspan=1| Increases physical resistance by 1320.
+! Potions
+| {{Effect Link|Increase Armor}} Poison
+|rowspan=1|[[File:ON-icon-misc-Minor Resolve.png|64px]]
+|-
+|rowspan=1 {{HE|Physical Resistance Potion}}|
+===Physical Resistance Potion===
+|rowspan=1| ||rowspan=1| Increases physical resistance by 5280.
+! Potions
+| {{Effect Link|Increase Armor}} Potion
+|rowspan=1|[[File:ON-icon-misc-Major Resolve.png|64px]]
+|-
+|rowspan=5 {{HE|Prophecy}}|
+===Prophecy===
+|rowspan=2| ''Minor'' ||rowspan=2| Increases spell critical by 1314.
+! Abilities
+| [[ON:Exploitation|Exploitation]]
+|rowspan=2|[[File:ON-icon-misc-Minor Prophecy.png|64px]]
+|-
+! Potions
+| {{Effect Link|Spell Critical}} Poison
+|-
+|rowspan=3| ''Major'' ||rowspan=3| Increases spell critical by 2629.
+! Abilities
+| [[ON:Expert Hunter|Expert Hunter]], [[ON:Inferno|Inferno]], [[ON:Lotus Flower|Lotus Flower]], [[ON:Magelight|Magelight]],  [[ON:Roar|Roar]], [[ON:Sun Fire|Sun Fire]], [[ON:Shadow Cloak|Shadow Cloak]]
+|rowspan=3|[[File:ON-icon-misc-Major Prophecy.png|64px]]
+|-
+! Sets
+| [[ON:Oakensoul Ring|Oakensoul Ring]], [[ON:Toothrow|Toothrow]], [[ON:Treasure Hunter|Treasure Hunter]]
+|-
+! Potions
+| {{Effect Link|Spell Critical}} Potion
+|-
+|rowspan=6 {{HE|Protection}}|
+
+===Protection===
+|rowspan=4| ''Minor'' ||rowspan=4| Reduces damage taken by 5%.
+! Abilities
+| [[ON:Bone Totem|Bone Totem]], [[ON:Bound Armor|Bound Armor]], [[ON:Circle of Protection|Circle of Protection]], [[ON:Shadow Cloak|Dark Cloak]], [[ON:Frost Cloak|Ice Fortress]], [[ON:Impulse|Impulse]], [[ON:Puncture|Ransack]], [[ON:Runic Defense|Runic Defense]], [[ON:Spear Wall|Spear Wall]], [[ON:Undo|Temporal Guard]]
+|rowspan=4|[[File:ON-icon-misc-Minor Protection.png|64px]]
+|-
+! Sets
+| [[ON:Indomitable Fury|Indomitable Fury]], [[ON:Ironblood|Ironblood]], [[ON:Oakensoul Ring|Oakensoul Ring]], [[ON:Vampire Cloak|Vampire Cloak]]
+|-
+! Potions
+| {{Effect Link|Protection}} Potion or Poison
+|-
+! Verses
+| [[ON:Apocryphal Emissary|Apocryphal Emissary]] 1st stack
+|-
+|rowspan=2| ''Major'' ||rowspan=2| Reduces damage taken by 10%.
+! Abilities
+| [[ON:Consuming Darkness (skill)|Consuming Darkness]], [[ON:Bitter Harvest|Deaden Pain]], [[ON:Focused Charge|Focused Charge]], [[ON:Vitalizing Glyphic|Glyphic of the Tides]], [[ON:Rite of Passage|Remembrance]], [[ON:Revealing Flare|Revealing Flare]], [[ON:Sleet Storm|Sleet Storm]]
+|rowspan=2|[[File:ON-icon-misc-Major Protection.png|64px]]
+|-
+! Sets
+| [[ON:Coward's Gear|Coward's Gear]], [[ON:Daedric Trickery|Daedric Trickery]], [[ON:Hagraven's Garden|Hagraven's Garden]], [[ON:Immortal Warrior|Immortal Warrior]], [[ON:Ironblood|Ironblood]], [[ON:Pirate Skeleton|Pirate Skeleton]], [[ON:Reawakened Hierophant|Reawakened Hierophant]], [[ON:Steadfast Hero|Steadfast Hero]], [[ON:Test of Resolve|Test of Resolve]]
+|-
+|rowspan=5 {{HE|Resolve}}|
+===Resolve===
+|rowspan=3| ''Minor'' ||rowspan=3| Increases physical and spell resistance by 2974.
+! Abilities
+| [[ON:Blessing of Protection|Blessing of Protection]], [[ON:Bound Armor|Bound Aegis]], [[ON:Blur|Mirage]], [[ON:Vigor|Resolving Vigor]], [[ON:Runic Defense|Runic Defense]]
+|rowspan=3|[[File:ON-icon-misc-Minor Resolve.png|64px]]
+|-
+! Sets
+| [[ON:Magma Incarnate (set)|Magma Incarnate]], [[ON:Stone's Accord|Stone's Accord]]
+|-
+! Verses
+| [[ON:Apocryphal Emissary|Apocryphal Emissary]] 2nd stack
+|-
+|rowspan=2| ''Major'' ||rowspan=2| Increases physical and spell resistance by 5948.
+! Abilities
+| [[ON:Equilibrium|Balance]], [[ON:Bone Armor|Bone Armor]], [[ON:Fatewoven Armor|Fatewoven Armor]], [[ON:Frost Cloak|Frost Cloak]], [[ON:Lightning Form|Lightning Form]], [[ON:Mend Wounds|Mend Spirit]], [[ON:Rune Focus|Rune Focus]], [[ON:Savage Strength|Savage Strength]], [[ON:Shadow Barrier|Shadow Barrier]], [[ON:Spiked Armor|Spiked Armor]], [[ON:Unstoppable_(skill)|Unstoppable]]
+|rowspan=2|[[File:ON-icon-misc-Major Resolve.png|64px]]
+|-
+! Sets
+| [[ON:Mighty Chudan (set)|Mighty Chudan]], [[ON:Mighty Glacier|Mighty Glacier]], [[ON:Oakensoul Ring|Oakensoul Ring]], [[ON:The Saint and the Seducer|The Saint and the Seducer]]
+|-
+
+|rowspan=5|
+===Savagery===
+|rowspan=2| ''Minor'' ||rowspan=2| Increases weapon critical by 1314.
+! Abilities
+| [[ON:Hemorrhage|Hemorrhage]]
+|rowspan=2|[[File:ON-icon-misc-Minor Savagery.png|64px]]
+|-
+! Potions
+| {{Effect Link|Weapon Critical}} Poison
+|-
+|rowspan=3| ''Major'' ||rowspan=3| Increases weapon critical by 2629.
+! Abilities
+| [[ON:Expert Hunter|Expert Hunter]], [[ON:Inferno|Inferno]], [[ON:Lotus Flower|Lotus Flower]], [[ON:Magelight|Magelight]],  [[ON:Roar|Roar]], [[ON:Sun Fire|Sun Fire]], [[ON:Shadow Cloak|Shadow Cloak]]
+|rowspan=3|[[File:ON-icon-misc-Major Savagery.png|64px]]
+|-
+! Sets
+| [[ON:Oakensoul Ring|Oakensoul Ring]], [[ON:Toothrow|Toothrow]], [[ON:Treasure Hunter|Treasure Hunter]]
+|-
+! Potions
+| {{Effect Link|Weapon Critical}} Potion
+|-
+|rowspan=2 {{HE|Slayer}}|
+
+===Slayer===
+| ''Minor'' || Increases damage done to Dungeon, Trial and Arena Monsters by 5%.
+! Sets
+| [[ON:Ansuul's Torment|Ansuul's Torment]], [[Online:Arms of Relequen|Arms of Relequen]], [[ON:Bahsei's Mania|Bahsei's Mania]], [[ON:Coral Riptide|Coral Riptide]], [[ON:False God's Devotion|False God's Devotion]], [[ON:Infallible Mage|Infallible Mage]], [[Online:Mantle of Siroria|Mantle of Siroria]], [[Online:Master Architect|Master Architect]], [[ON:Moondancer|Moondancer]], [[ON:Mora Scribe's Thesis|Mora Scribe's Thesis]], [[ON:Oakensoul Ring|Oakensoul Ring]], [[ON:Peace and Serenity|Peace and Serenity]], [[ON: Roaring Opportunist|Roaring Opportunist]], [[ON:Roar of Alkosh|Roar of Alkosh]], [[ON:Slivers of the Null Arca|Slivers of the Null Arca]], [[ON:Sul-Xan's Torment|Sul-Xan's Torment]], [[ON:Tooth of Lokkestiiz|Tooth of Lokkestiiz]], [[ON:Vicious Serpent|Vicious Serpent]], [[Online:War Machine|War Machine]], [[ON:Whorl of the Depths|Whorl of the Depths]], [[ON:Yandir's Might|Yandir's Might]]
+| [[File:ON-icon-misc-Minor Slayer.png|64px]]
+|-
+| ''Major'' || Increases damage done to Dungeon, Trial and Arena Monsters by 10%.
+! Sets
+| [[Online:Master Architect|Master Architect]], [[ON:Roaring Opportunist|Roaring Opportunist]], [[ON:Tooth of Lokkestiiz|Tooth of Lokkestiiz]], [[Online:War Machine|War Machine]]
+| [[File:ON-icon-misc-Major Slayer.png|64px]]
+|-
+|rowspan=5 {{HE|Sorcery}}|
+
+===Sorcery===
+|rowspan=2| ''Minor'' ||rowspan=2| Increases spell damage by 10%.
+! Abilities
+| [[ON:Illuminate|Illuminate]] (when casting a [[ON:Dawn's Wrath|Dawn's Wrath]] ability)
+|rowspan=2|[[File:ON-icon-misc-Minor Sorcery.png|64px]]
+|-
+! Potions
+| {{Effect Link|Increase Spell Power}} Poison
+|-
+|rowspan=3| ''Major'' ||rowspan=3| Increases spell damage by 20%.
+! Abilities
+| [[ON:Betty Netch (skill)|Betty Netch]], [[ON:Puncturing Strikes|Biting Jabs]], [[ON:Entropy|Degeneration]], [[ON:Drain Power|Drain Power]], [[ON:Hidden Blade|Hidden Blade]], [[ON:Hircine's Bounty|Hircine's Bounty]], [[ON:Molten Weapons|Molten Weapons]], [[ON:Momentum|Momentum]], [[ON:Surge|Surge]], [[ON:Tome-Bearer's Inspiration|Tome-Bearer's Inspiration]], [[ON:Poison Arrow|Venom Arrow]]
+|rowspan=3|[[File:ON-icon-misc-Major Sorcery.png|64px]]
+|-
+! Sets
+|  [[ON:Dreugh King Slayer|Dreugh King Slayer]], [[ON:Oakensoul Ring|Oakensoul Ring]], [[ON:Rattlecage|Rattlecage]]
+|-
+! Potions
+| {{Effect Link|Increase Spell Power}} Potion
+|-
+|rowspan=1 {{HE|Spell Resistance}}|
+===Spell Resistance===
+|rowspan=1| ||rowspan=1| Increases spell resistance by 1320.
+! Potions
+| {{Effect Link|Increase Spell Resist}} Poison
+|rowspan=1|[[File:ON-icon-misc-Minor Ward.png|64px]]
+|-
+|rowspan=1 {{HE|Spell Resistance Potion}}|
+===Spell Resistance Potion===
+|rowspan=1| ||rowspan=1| Increases spell resistance by 5280.
+! Potions
+| {{Effect Link|Increase Spell Resist}} Potion
+|rowspan=1|[[File:ON-icon-misc-Major Ward.png|64px]]
+|-
+|rowspan=3 {{HE|Toughness}}|
+===Toughness===
+|rowspan=3| ''Minor'' ||rowspan=3| Increases maximum health by 10%.
+! Abilities
+| [[ON:Maturation|Maturation]]
+|rowspan=3| [[File:ON-icon-misc-Minor Toughness.png|64px]]
+|-
+! Sets
+| [[ON:Warrior-Poet|Warrior-Poet]]
+|-
+! Verses
+| [[ON:Apocryphal Emissary|Apocryphal Emissary]] 3rd stack
+|-
+|rowspan=6 {{HE|Vitality}}|
+
+===Vitality===
+|rowspan=3| ''Minor'' ||rowspan=3| Increases healing received and shield Strength by 6%.
+! Abilities
+| [[ON:Dragon Blood|Green Dragon Blood]], [[ON:Guard (skill)|Mystic Guard]], [[Online:Encase|Vibrant Shroud]]
+|rowspan=3|[[File:ON-icon-misc-Minor Vitality.png|64px]]
+|-
+! Sets
+| [[ON:Gardener of Seasons|Gardener of Seasons]], [[ON:Hollowfang Thirst|Hollowfang Thirst]], [[ON:Naga Shaman|Naga Shaman]], [[ON:Order of Diagna|Order of Diagna]], [[ON:Ozezan the Inferno_(set)|Ozezan the Inferno]]
+|-
+! Potions
+| {{Effect Link|Vitality}} Poison
+|-
+|rowspan=3| ''Major'' ||rowspan=3| Increases healing received and Shield Strength by 12%.
+! Abilities
+| [[ON:Bone Shield|Bone Surge]], [[ON:Soul Shred|Soul Siphon]]
+|rowspan=3|[[File:ON-icon-misc-Major Vitality.png|64px]]
+|-
+! Sets
+| [[ON:Bani's Torment|Bani's Torment]], [[ON:Daedric Trickery|Daedric Trickery]], [[ON:Jailer's Tenacity|Jailer's Tenacity]], [[ON:Mender's Ward|Mender's Ward]], [[ON:Scourge Harvester|Scourge Harvester]]
+|-
+! Potions
+| {{Effect Link|Vitality}} Potion
+|}

@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "rows": 3,
+    "cols": 3,
+    "ntiles": 9,
+    "initial": [
+        [
+            0,
+            1,
+            2
+        ],
+        [
+            3,
+            5,
+            6
+        ],
+        [
+            7,
+            8,
+            4
+        ]
+    ],
+    "difficulty": "Easy",
+    "rating": {
+        "gold": 5,
+        "silver": 6,
+        "bronze": 7
+    },
+    "blurb": "Practice completing the TLC.  Then close this browser tab."
+}

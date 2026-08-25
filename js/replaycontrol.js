@@ -1,6 +1,6 @@
 //     File: replaycontrol.js
 //     Synopsis: the logic for interpreting actions from a given replay file
-//     Copyright (C) 2023-2024 Michael C Horsch
+//     Copyright (C) 2023-2026 Michael C Horsch
 //
 //     This program is free software: you can redistribute it and/or modify
 //     it under the terms of the GNU General Public License as published by
@@ -31,7 +31,7 @@ class ReplayControl extends Basecontrol {
         const self = this;
         // Add an event listener to the slider to handle its value changes
         this.speed_slider.addEventListener('input', () => {
-            console.log("set speed to " + self.speed_slider.value);
+            // console.log("set speed to " + self.speed_slider.value);
             self.slide_time = this.max_slide_time /  self.speed_slider.value;
         });
         this.slide_time = this.max_slide_time /  this.speed_slider.value;

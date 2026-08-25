@@ -1,6 +1,6 @@
 //     File: Game.js
 //     Synopsis: Set everything up for the game, given a gamefile.
-//     Copyright (C) 2023-2024 Michael C Horsch
+//     Copyright (C) 2023-2026 Michael C Horsch
 //
 //     This program is free software: you can redistribute it and/or modify
 //     it under the terms of the GNU General Public License as published by
@@ -18,27 +18,33 @@
 // Here we set everything up in the right order, so that the game will start
 
 class Game {
-    constructor(jsonfilepath)
+    constructor(puzzleEntry)
     {
         // This object coordinates and initiates the application.
         // The component objects are created, then informed of each
         // other's existence.
 
-        this.jsonfilename = "puzzles/" + jsonfilepath;
-        const self = this;
+        this.puzzleEntry = puzzleEntry;
+        this.theLevelData = null;
+        this.theLevel = null;
+        this.theController = null;
+        this.theView = null;
+    }
 
-        // this is asynchronous, obviously not obvious
-        fetch(this.jsonfilename)
-            .then(Response => Response.json())
-            .then(data => {
-                // console.log("loading game data from json file "+ this.jsonfilepath );
-                self.theLevelData = data;
-                self.theLevel = new Playlevel(self.theLevelData);
-                self.theController = new Control(self.theLevel);
-                self.theView = new View(self.theLevel);
-                self.theController.makeConnect(self.theView);
-                self.theView.makeConnect(self.theController);
-            });
+    async init() {
+        // try to grab the entry using the given key
+
+        const {tiling, config} = await loadPuzzle(this.puzzleEntry);
+
+        // console.log("loading game data from json file "+ this.jsonfilepath );
+        this.theLevelData = [tiling, config];
+        // console.log(this.theLevelData);
+        // console.log("finished loading game data from json file");
+        this.theLevel = new Playlevel(tiling, config);
+        this.theController = new Control(this.theLevel);
+        this.theView = new View(this.theLevel);
+        this.theController.makeConnect(this.theView);
+        this.theView.makeConnect(this.theController);
     }
 
     reset() {

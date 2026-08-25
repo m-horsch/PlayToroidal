@@ -1,0 +1,28 @@
+{
+    "version": "0.2.0",
+    "rows": 3,
+    "cols": 3,
+    "ntiles": 3,
+    "final": [
+        [
+            1,
+            2,
+            1
+        ],
+        [
+            2,
+            0,
+            2
+        ],
+        [
+            1,
+            2,
+            1
+        ]
+    ],
+    "imagetiles": {
+        "0": "Assets/Blocks/BlueBlock.png",
+        "1": "Assets/Blocks/RedBlock.png",
+        "2": "Assets/Blocks/GreenBlock.png"
+    }
+}

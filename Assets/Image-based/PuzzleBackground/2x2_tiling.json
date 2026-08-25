@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "rows": 2,
+    "cols": 2,
+    "ntiles": 4,
+    "final": [
+        [
+            0,
+            1
+        ],
+        [
+            2,
+            3
+        ]
+    ],
+    "imagetiles": {
+        "0": "Assets/Image-based/PuzzleBackground/2x2/tile_0_0.png",
+        "1": "Assets/Image-based/PuzzleBackground/2x2/tile_0_1.png",
+        "2": "Assets/Image-based/PuzzleBackground/2x2/tile_1_0.png",
+        "3": "Assets/Image-based/PuzzleBackground/2x2/tile_1_1.png"
+    }
+}

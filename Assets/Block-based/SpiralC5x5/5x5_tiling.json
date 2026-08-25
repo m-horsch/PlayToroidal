@@ -1,0 +1,50 @@
+{
+    "version": "0.2.0",
+    "rows": 5,
+    "cols": 5,
+    "ntiles": 5,
+    "final": [
+        [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            2,
+            2,
+            2,
+            2,
+            0
+        ],
+        [
+            1,
+            1,
+            4,
+            0,
+            0
+        ],
+        [
+            1,
+            3,
+            3,
+            3,
+            3
+        ],
+        [
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    ],
+    "imagetiles": {
+        "0": "Assets/Blocks/RedBlock.png",
+        "1": "Assets/Blocks/OrangeBlock.png",
+        "2": "Assets/Blocks/YellowBlock.png",
+        "3": "Assets/Blocks/GreenBlock.png",
+        "4": "Assets/Blocks/BlueBlock.png"
+    }
+}

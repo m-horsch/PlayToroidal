@@ -1,6 +1,6 @@
 //     File: replaylevel.js
 //     Synopsis: A Replaylevel represents all the details to replay a recorded sequence of moves,
-//     Copyright (C) 2023-2024 Michael C Horsch
+//     Copyright (C) 2023-2026 Michael C Horsch
 //
 //     This program is free software: you can redistribute it and/or modify
 //     it under the terms of the GNU General Public License as published by
@@ -23,9 +23,10 @@
 // TODO: Crossword puzzles, possibly without any "goal" showing; the problem is to figure out the words!
 
 class Replaylevel extends Baselevel {
-    constructor(details) {
-        super(details);
-        this.actions = details.actions.split(" ");
+    constructor(tiling, config, replay) {
+        super(tiling, config);
+        // console.log("replay data:", replay);
+        this.actions = replay.actions.split(" ");
         this.actions_cursor = 0;
         // console.log("finished replay level constructor");
     }

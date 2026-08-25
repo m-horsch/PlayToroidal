@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "rows": 3,
+    "cols": 3,
+    "ntiles": 4,
+    "initial": [
+        [
+            0,
+            2,
+            1
+        ],
+        [
+            0,
+            0,
+            3
+        ],
+        [
+            0,
+            0,
+            0
+        ]
+    ],
+    "difficulty": "Easy",
+    "rating": {
+        "gold": 4,
+        "silver": 5,
+        "bronze": 6
+    },
+    "blurb": "Apply a similar sequence to solve this puzzle.  Four steps.  Set Red aside.  Shift Orange.  Push Red and Orange together. Put Red into place."
+}

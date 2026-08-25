@@ -1,0 +1,39 @@
+{
+    "version": "0.2.0",
+    "rows": 4,
+    "cols": 4,
+    "ntiles": 5,
+    "initial": [
+        [
+            2,
+            0,
+            2,
+            4
+        ],
+        [
+            1,
+            4,
+            2,
+            3
+        ],
+        [
+            3,
+            1,
+            1,
+            4
+        ],
+        [
+            4,
+            3,
+            0,
+            0
+        ]
+    ],
+    "difficulty": "Easy",
+    "rating": {
+        "gold": 44,
+        "silver": 48,
+        "bronze": 54
+    },
+    "blurb": "For some block puzzles, solve row-by-row, leaving the right-most column as a buffer to move tiles around."
+}

@@ -1,0 +1,32 @@
+{
+    "version": "0.2.0",
+    "rows": 3,
+    "cols": 3,
+    "ntiles": 7,
+    "final": [
+        [
+            4,
+            5,
+            6
+        ],
+        [
+            5,
+            6,
+            1
+        ],
+        [
+            6,
+            2,
+            3
+        ]
+    ],
+    "imagetiles": {
+        "0": "Assets/Blocks/BlackBlock.png",
+        "1": "Assets/Blocks/RedBlock.png",
+        "2": "Assets/Blocks/OrangeBlock.png",
+        "3": "Assets/Blocks/BlueBlock.png",
+        "4": "Assets/Blocks/YellowBlock.png",
+        "5": "Assets/Blocks/MagentaBlock.png",
+        "6": "Assets/Blocks/GreenBlock.png"
+    }
+}

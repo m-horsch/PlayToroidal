@@ -1,0 +1,43 @@
+{
+    "version": "0.2.0",
+    "rows": 4,
+    "cols": 4,
+    "ntiles": 9,
+    "final": [
+        [
+            0,
+            1,
+            2,
+            0
+        ],
+        [
+            1,
+            3,
+            4,
+            2
+        ],
+        [
+            5,
+            6,
+            7,
+            8
+        ],
+        [
+            0,
+            5,
+            8,
+            0
+        ]
+    ],
+    "imagetiles": {
+        "0": "Assets/Blocks/BlackBlock.png",
+        "1": "Assets/Blocks/Diagonals/BlueBlackT.png",
+        "2": "Assets/Blocks/Diagonals/BlueBlack.png",
+        "3": "Assets/Blocks/Diagonals/RedGreenT.png",
+        "4": "Assets/Blocks/Diagonals/RedGreen.png",
+        "5": "Assets/Blocks/Diagonals/BlackBlue.png",
+        "6": "Assets/Blocks/Diagonals/GreenRed.png",
+        "7": "Assets/Blocks/Diagonals/GreenRedT.png",
+        "8": "Assets/Blocks/Diagonals/BlackBlueT.png"
+    }
+}

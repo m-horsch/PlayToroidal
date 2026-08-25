@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "rows": 3,
+    "cols": 3,
+    "ntiles": 5,
+    "final": [
+        [
+            0,
+            1,
+            2
+        ],
+        [
+            3,
+            4,
+            2
+        ],
+        [
+            2,
+            2,
+            2
+        ]
+    ],
+    "imagetiles": {
+        "0": "Assets/Image-based/Stars/3x3/tile_0_0.png",
+        "1": "Assets/Image-based/Stars/3x3/tile_0_1.png",
+        "2": "Assets/Blocks/BlackBlock.png",
+        "3": "Assets/Image-based/Stars/3x3/tile_1_0.png",
+        "4": "Assets/Image-based/Stars/3x3/tile_1_1.png"
+    }
+}

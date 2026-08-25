@@ -1,7 +1,7 @@
 //     File: view.js
 //     Synopsis: A View contains the information and technology to present
 //     the game to the player.
-//     Copyright (C) 2023-2024 Michael C Horsch
+//     Copyright (C) 2023-2026 Michael C Horsch
 //
 //     This program is free software: you can redistribute it and/or modify
 //     it under the terms of the GNU General Public License as published by
@@ -154,7 +154,7 @@ class View extends Baseview {
                 clearInterval(self.timer);
                 document.getElementById("win").innerText
                     = "Solved in {0} moves.".format("" + self.moveCounter);
-                if (self.theLevel.nextPage && !self.nexted) {
+                if (!self.nexted) {
                     self.nexted = true;
                     const nextops = document.createElement("a");
                     nextops.setAttribute("class", "restart-button");

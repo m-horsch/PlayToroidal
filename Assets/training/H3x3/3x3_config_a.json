@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "rows": 3,
+    "cols": 3,
+    "ntiles": 3,
+    "initial": [
+        [
+            1,
+            2,
+            1
+        ],
+        [
+            0,
+            2,
+            0
+        ],
+        [
+            1,
+            2,
+            0
+        ]
+    ],
+    "difficulty": "Moderate",
+    "rating": {
+        "gold": 8,
+        "silver": 11,
+        "bronze": 14
+    },
+    "blurb": "In this puzzle, the blocks are labelled."
+}

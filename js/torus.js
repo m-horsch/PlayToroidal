@@ -1,7 +1,7 @@
 //     File: torus.js
 //     Synopsis: A Torus represents the grid underlying the game, including
 //               methods to perform the rotations.
-//     Copyright (C) 2023-2024 Michael C Horsch
+//     Copyright (C) 2023-2026 Michael C Horsch
 //
 //     This program is free software: you can redistribute it and/or modify
 //     it under the terms of the GNU General Public License as published by
@@ -24,7 +24,7 @@ class Torus {
         // The 2D list is copied, so that each Torus has an
         // independent copy.
 
-        // console.log("initializing theArray");
+        // console.log("initializing theArray", anArray);
         // this.theArray = anArray;
         this.theArray = [];
         this.ROWS = anArray.length;
@@ -46,7 +46,7 @@ class Torus {
         // restore the Torus to the given configuration
         // anArray could be the original configuration
 
-        console.log("reset Torus " + this.ROWS + "x" + this.COLS);
+        // console.log("reset Torus " + this.ROWS + "x" + this.COLS);
 
         for (let row = 0; row < this.ROWS; row++) {
             for (let col = 0; col < this.COLS; col++) {

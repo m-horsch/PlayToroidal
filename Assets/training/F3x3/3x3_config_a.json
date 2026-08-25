@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "rows": 3,
+    "cols": 3,
+    "ntiles": 9,
+    "initial": [
+        [
+            3,
+            1,
+            2
+        ],
+        [
+            8,
+            0,
+            5
+        ],
+        [
+            7,
+            6,
+            4
+        ]
+    ],
+    "difficulty": "Easy",
+    "rating": {
+        "gold": 6,
+        "silver": 10,
+        "bronze": 15
+    },
+    "blurb": "Your eye has to work a little harder when there's an image to rearrange."
+}
