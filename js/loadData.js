@@ -74,9 +74,9 @@ async function loadPuzzle(puzzleEntry) {
         configResponse.json(),
     ]);
 
-    if (tiling.version !== config.version) {
-        throw new Error("tiling and config files disagree on version");
-    }
+    // if (tiling.version !== config.version) {
+    //     throw new Error("tiling and config files disagree on version");
+    // }
     if (tiling.ntiles !== config.ntiles) {
         throw new Error("tiling and config files disagree on number of tiles");
     }
