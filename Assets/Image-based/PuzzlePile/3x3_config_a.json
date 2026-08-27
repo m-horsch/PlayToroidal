@@ -1,5 +1,5 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "rows": 3,
     "cols": 3,
     "ntiles": 9,
@@ -20,10 +20,10 @@
             4
         ]
     ],
-    "difficulty": "Moderate",
+    "difficulty": "Easy",
     "rating": {
-        "gold": 10,
-        "silver": 13,
-        "bronze": 16
+        "gold": 6,
+        "silver": 9,
+        "bronze": 12
     }
 }
