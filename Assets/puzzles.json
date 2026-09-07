@@ -853,5 +853,23 @@
         "tiling": "10x10_tiling.json",
         "config": "10x10_config_a.json",
         "replay": "10x10_replay_a.json"
+    },
+    "20260907": {
+        "type": "normal",
+        "path": "Assets/Image-based/Cube3",
+        "tiling": "4x4_tiling.json",
+        "config": "4x4_config_a.json"
+    },
+    "20260829": {
+        "type": "normal",
+        "path": "Assets/Block-based/Octagonal",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
+    },
+    "20260908": {
+        "type": "normal",
+        "path": "Assets/Image-based/Cube3",
+        "tiling": "3x3_tiling.json",
+        "config": "3x3_config_a.json"
     }
 }

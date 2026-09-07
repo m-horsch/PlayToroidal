@@ -18,7 +18,6 @@
 
 // TODO: store and retrieve statistics for each puzzle
 // TODO: display "personal bests"
-// TODO: revise puzzle file structure so that puzzles are indexed
 // TODO: highlight tiles that are in the right place
 // TODO: Crossword puzzles, possibly without any "goal" showing; the problem is to figure out the words!
 
